@@ -31,6 +31,8 @@
 
 <div style="page-break-after: always;"></div>
 
+---
+
 # Lore
 
 ## Dossiê: Vincent "Vince" Ferrara
@@ -64,6 +66,8 @@ Mobilidade Tática: Adquiriu e modificou um protótipo da nova Mitsubishi Pajero
 Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o mesmo engenheiro de sucesso, talvez apenas mais sério e observador. Na realidade, ele é um caçador metódico que não busca heroísmo, mas eficiência. Ele encara os vampiros não como monstros místicos, mas como problemas de engenharia complexos que requerem soluções térmicas e cinéticas definitivas.
 
 <div style="page-break-after: always;"></div>
+
+---
 
 # Ficha do Vince:
 
@@ -123,6 +127,8 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
       5. Obsession / Compulsion: Research or Engineering (Ele não consegue deixar um problema técnico/sobrenatural sem resolver) (+2 PB)
 
 <div style="page-break-after: always;"></div>
+
+---
 
 # Arsenal Balístico
 
@@ -196,6 +202,8 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
 
 <div style="page-break-after: always;"></div>
 
+---
+
 # Arsenal Químico
 
 ### **Granadas Químicas "Green Gas" (CR/Cloropicrina):**
@@ -203,8 +211,6 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
    1. **Regra:** A vítima rola teste de resistência Dificuldade 8
       1. **Falha:** A vítima fica Cega e com Dor Extrema. **Penalidade de -3 dados em todas as ações**.
       2. **Falha Crítica:** A vítima inala altas quantidades de gás. **Incapacitada (só pode se arrastar enquanto engasga no próprio vômito)**.
-
----
 
 ### **Explosivos:**
    1. **Kit de Demolição Binária (PLX):**
@@ -234,11 +240,13 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
 
 <div style="page-break-after: always;"></div>
 
+---
+
 # **Gadgets** 
 
 <img src="tacticalrig_l.webp" height="250">
  
----
+
 
 ### **Race Rig: Safariland 012 + Cinto CR Speed**
 
@@ -251,7 +259,7 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
    2. **Efeito (Saque Rápido):** O teste de Saque Rápido (Fast Draw) tem **Dificuldade -2 em saque rápido.**
    3. **Penalidade (A Falha do Equipamento):** Este coldre não tem retenção de segurança. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 5). Se falhar, a arma cai no chão.
 
----
+
 
 ### **Porta-Carregadores de Roletes (Safariland 771)**
 
@@ -266,7 +274,7 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
    3. **Na Narrativa:** "Enquanto a mão direita ainda está disparando o último tiro, a esquerda já está com um novo carregador cheio. O ciclo não para."
    4. **Penalidade:** Este porta-carregadores é de baixa retenção. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 5). Se falhar, as munições caem no chão.
 
----
+
 
 ### **Coldre Velado de Kydex (Blade-Tech IWB)**
 
@@ -278,7 +286,7 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
    1. **Efeito:** Diferente de coldres de couro que "imprimem" (mostram o contorno da arma), o Kydex mantém a arma colada no rim. Adiciona +1 dados em qualquer teste para esconder a arma no corpo (Destreza + Furtividade/Lábia).
    2. **O Saque:** Permite sacar a arma sem a penalidade padrão de "Arma Escondida". A dificuldade é a padrão, pois o coldre mantém a boca aberta e rígida.
 
----
+
 
 ### **CCW Tactical Strippers**
 
@@ -291,7 +299,7 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
    2. **Vantagem Tática:** Esses clipes são compactos. Se o Vince estiver de jaqueta, eles mal aparecem.
    3. **Penalidade:** Este porta-capsulas é de baixa retenção. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 4). Se falhar, as munições caem no chão.
 
----
+
 
 ### **Bringandina Modular AR500**
 
@@ -304,6 +312,8 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
    - **Penalidades:** -1 Stamina e Dexterity, +1 Dificuldade em Stealth
 
 <div style="page-break-after: always;"></div>
+
+---
 
 # **Notas Sobre o Estilo de combate do Vince**
 
@@ -323,6 +333,8 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
      - Não se aplica a combate corpo-a-corpo, outras habilidades ou ações não listadas
 
 <div style="page-break-after: always;"></div>
+
+---
 
 ### Inventario de Granadas e Munições:
    Vince possui um limite de items que pode levar consigo:
@@ -351,6 +363,8 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
       6. Kit de Lockpicking
 
 <div style="page-break-after: always;"></div>
+
+---
 
 # 📂 HF TECHNOLOGY - THREAT RESPONSE LOG
 **User:** V. "Engineer" | **Clearance:** Level 5 | **Subject:** Field Testing / Incident Reports
@@ -400,6 +414,8 @@ Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o 
    *Nota 2: Terei de cavar um tumulo pros falecidos.*
 
 <div style="page-break-after: always;"></div>
+
+---
 
 # Trilha Sonora
 
