@@ -422,6 +422,7 @@
 - **Bio-Sensores (Gansos):** 20x Gansos Sinaleiros (Atuais: 6 Vivos).
 
    *Nota 1: Comprar mais gansos. Eles detectaram as ameaças antes da eletrônica.*
+   
    *Nota 2: Terei de cavar um tumulo pros falecidos.*
 
 <div style="page-break-after: always;"></div>
