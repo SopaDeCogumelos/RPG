@@ -144,8 +144,7 @@
 
 ### **FCB-308 "Chimera" (Ferrara Custom Bullpup)**
 
-<img src="Gemini_Generated_Image_6rsehq6rsehq6rse.png" width="300">
-<img src="Gemini_Generated_Image_wcmhxiwcmhxiwcmh.png" width="300">
+<img src="Gemini_Generated_Image_6rsehq6rsehq6rse.png" height="300"><img src="Gemini_Generated_Image_wcmhxiwcmhxiwcmh.png" height="300">
 
    *Protótipo de Fuzil Bullpup Calibre 7.62x51mm projetado e construído pelo Vince.*
    1. **Base:** Mecanismo AR10/FAL modificado para Bullpup.
