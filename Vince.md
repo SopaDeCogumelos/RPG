@@ -144,7 +144,7 @@
 
 ### **FCB-308 "Chimera" (Ferrara Custom Bullpup)**
 
-<img src="Gemini_Generated_Image_6rsehq6rsehq6rse.png" height="300"><img src="Gemini_Generated_Image_wcmhxiwcmhxiwcmh.png" height="300">
+<img src="Gemini_Generated_Image_6rsehq6rsehq6rse.png" height="200"><img src="Gemini_Generated_Image_wcmhxiwcmhxiwcmh.png" height="200">
 
    *Protótipo de Fuzil Bullpup Calibre 7.62x51mm projetado e construído pelo Vince.*
    1. **Base:** Mecanismo AR10/FAL modificado para Bullpup.
@@ -230,7 +230,7 @@
    3. **Ácido Pícrico:**
       *Um líquido amarelo que parece tinta. É inofensivo quando úmido, mas ao secar se torna um explosivo altamente reativo que sofre ignição com um pouco de atrito ou leve pancada. Ótimo para fazer armadilhas.*
    4. **Estrela da Manhã:**
-      *Uma granada incendiária e uma flashbang se amaram muito e tiveram um filho.*
+      *Uma granada incendiária e uma flashbang se amaram muito e tiveram um filho*
       1. **Receita especial do Vince:**
       *Vince mói o nitrato de amônio em um moinho de bolas até virar talco. Depois, mistura com o pó de magnésio e adiciona a limalha de alumínio da sua fresadora. O resultado é um pó cinza que, quando detonado, cria um explosivo incendiario de 3.000°C e um flash de luz tão intenso que, a curta distancia, parece um sol verdadeiro.*
       2. **Composição detalhada:**
@@ -413,12 +413,14 @@
   4. **Efeito:** A blindagem do alvo absorveu o impacto cinético, mas a carga de magnésio detonou dentro da musculatura.
   5. **Desfecho:** O alvo não morreu pelo tiro, mas a reação exotérmica causou falha catastrófica na moral. A entidade abortou o ataque e recuou para a mata. Continuei disparando contra as costas do alvo em fuga até que ele sumisse de vista.
 - **Conclusão:** O medo é uma arma mais confiável que o dano. Munição Dragonfly aprovada.
+  
    *Nota: Achei que fosse morrer quando ele absorveu os disparos iniciais.*
 
 ### 📝 Inventário de Defesa da Propriedade
 - **Câmeras:** 12x Câmeras IP com visão noturna (HF Tech Custom).
 - **Sensores:** 8x Sensores de Movimento Sísmico (Detectam passos pesados).
 - **Bio-Sensores (Gansos):** 20x Gansos Sinaleiros (Atuais: 6 Vivos).
+
    *Nota 1: Comprar mais gansos. Eles detectaram as ameaças antes da eletrônica.*
    *Nota 2: Terei de cavar um tumulo pros falecidos.*
 
