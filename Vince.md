@@ -18,6 +18,7 @@
     - [**Coldre Velado de Kydex (Blade-Tech IWB)**](#coldre-velado-de-kydex-blade-tech-iwb)
     - [**CCW Tactical Strippers**](#ccw-tactical-strippers)
     - [**Brigandina Modular AR500**](#brigandina-modular-ar500)
+    - [**HF Acoustics Earpro: V Edition**](#hf-acoustics-earpro-v-edition)
 - [**Notas Sobre o Estilo de combate do Vince**](#notas-sobre-o-estilo-de-combate-do-vince)
     - [IPSC Specialist (Homebrew Merit -2PB):](#ipsc-specialist-homebrew-merit--2pb)
     - [Inventário de Granadas e Munições:](#inventário-de-granadas-e-munições)
@@ -47,22 +48,30 @@
 
 **Natureza/Comportamento:** Perfeccionista / Autista (Focado/Analítico)
 
+<img src="media\Vince\Gemini_Generated_Image_jr4n8rjr4n8rjr4n.png">
+
 1. **Histórico e Carreira**
-   
+
    Nascido em uma família tradicional de produtores rurais, Vince sempre teve uma relação diferente com o campo: enquanto outros viam colheitas, ele via a mecânica dos tratores. Aos 12 anos, já desmontava e consertava o maquinário pesado da fazenda, demonstrando uma aptidão técnica prodigiosa.
    O seu interesse por armas de fogo seguiu a mesma lógica analítica. Longe da cultura de caça, Vince encontrou no tiro esportivo uma disciplina de precisão e controle. Começou com rifles de ar na juventude e migrou para o IPSC (Tiro Prático) assim que atingiu a idade permitida, competindo em circuitos regionais durante toda a sua vida adulta. Para Vince, o tiro não é violência; é balística aplicada e memória muscular.
    Sua mente analítica o levou ao MIT (Massachusetts Institute of Technology), onde se formou em Engenharia Mecatrônica. Foi lá que conheceu Chris Herrera, um colega brilhante com quem fundou a HF Technology (Herrera & Ferrara). A empresa, especializada em automação industrial e robótica pesada, tornou-se referência no setor, garantindo a Vince uma fortuna considerável (Recursos 5) e acesso irrestrito a tecnologias de ponta.
    Apesar da riqueza, Vince manteve suas raízes. Herdou parte das terras da família, mas optou por arrendar o cultivo para seu irmão, Bruno, mantendo para si apenas a antiga sede e o galpão principal, que converteu em residência e laboratório de P&D de alta segurança.
+
+   <img src="media\Vince\Gemini_Generated_Image_j0n04tj0n04tj0n0.png">
 
 2. **O Incidente (1996)**
    
    A visão de mundo de Vince foi fraturada em 1996, durante uma consultoria técnica em uma metalúrgica cliente da HF. Chamado para investigar a falha catastrófica de uma prensa hidráulica de 50 toneladas, fizeram de **tudo** (incluindo controle mental) para convencer Vince de que a causa do acidente foi "fadiga de material", mas ele rejeitou o laudo oficial.
    Sua análise forense e o acesso às gravações de segurança revelaram o impossível: um intruso humanoide parando o maquinário colossal com as próprias mãos para extrair um objeto, antes de desaparecer em uma velocidade que desafiava a física. Aquilo não era uma falha mecânica; era uma violação das leis naturais.
 
+   <img src="media\Vince\Gemini_Generated_Image_neytv3neytv3neyt.png">
+
 3. **A Escalada e o Ataque (Início de 1997)**
    
    Movido por uma curiosidade científica obsessiva (Defeito: Curiosidade), Vince iniciou uma investigação digital para encontrar padrões de "acidentes industriais" semelhantes. Sua busca atraiu a atenção errada.
    No início de 1997, sua fazenda foi invadida por um grupo de "agentes de limpeza" (carniçais) enviados para silenciá-lo. Vince sobreviveu apenas graças à sua competência no IPSC e ao conhecimento do terreno, mas a mensagem foi clara: ele estava lidando com predadores organizados e fisicamente superiores. Vince entendeu que a diplomacia era inútil e recuou estrategicamente, usando a desculpa de "projetos confidenciais da HF" para se isolar e preparar uma resposta.
+
+   <img src="media\Vince\Gemini_Generated_Image_5t1kca5t1kca5t1k.png">
 
 4. **O Hiato e o Preparo* (1997-1999)**
    
@@ -71,9 +80,14 @@
    Proteção: Adaptou chapas de aço AR500, usadas em máquinas da HF, para criar uma Brigandina moderna — uma armadura corporal capaz de suportar danos massivos sem sacrificar totalmente a mobilidade.
    Mobilidade Tática: Adquiriu e modificou um protótipo da nova Mitsubishi Pajero 4M41, hackeando a ECU e instalando sistemas industriais para criar um veículo de extração robusto.
 
+   <img src="media\Vince\Gemini_Generated_Image_3xp0cz3xp0cz3xp0.png">
+
 5. **Status Atual (1999)**
    
    Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o mesmo engenheiro de sucesso, talvez apenas mais sério e observador. Na realidade, ele é um caçador metódico que não busca heroísmo, mas eficiência. Ele encara os vampiros não como monstros místicos, mas como problemas de engenharia complexos que requerem soluções térmicas e cinéticas definitivas.
+
+   <img src="media\Vince\Gemini_Generated_Image_w0wq4ow0wq4ow0wq.png">
+   <img src="media\Vince\Gemini_Generated_Image_pijtdapijtdapijt.png">
 
 <div style="page-break-after: always;"></div>
 
@@ -81,7 +95,7 @@
 
 # Ficha do Vince:
 
-<img src="ficha.png">
+<img src="media/ficha.png">
 <div style="page-break-after: always;"></div>
 
 1. Attributes
@@ -144,7 +158,7 @@
 
 ### **FCB-308 "Chimera" (Ferrara Custom Bullpup)**
 
-<img src="Gemini_Generated_Image_6rsehq6rsehq6rse.png" height="200"><img src="Gemini_Generated_Image_wcmhxiwcmhxiwcmh.png" height="200">
+<img src="media/Gemini_Generated_Image_6rsehq6rsehq6rse.png" height="200"><img src="media/Gemini_Generated_Image_wcmhxiwcmhxiwcmh.png" height="200">
 
    *Protótipo de Fuzil Bullpup Calibre 7.62x51mm projetado e construído pelo Vince.*
    1. **Base:** Mecanismo AR10/FAL modificado para Bullpup.
@@ -164,8 +178,8 @@
 
 ### **AMT Automag III Custom**
 
-<img src="Gemini_Generated_Image_309fcs309fcs309f.png" height="150">
-<img src="Gemini_Generated_Image_tb6elrtb6elrtb6e.png" height="150">
+<img src="media/Gemini_Generated_Image_309fcs309fcs309f.png" height="150">
+<img src="media/Gemini_Generated_Image_tb6elrtb6elrtb6e.png" height="150">
 
    *Pistola .30 Carbine Customizada pelo Vince. É um canhão de mão para caçar monstros. Possui carregador estendido de 12 munições.*
    1. **Customização:** Compensador de recuo superdimensionado para melhorar controle ou supressor para abafar sons de disparo.
@@ -184,7 +198,7 @@
 
 ###  **STI Edge 2011 Custom**
 
-<img src="Gemini_Generated_Image_gsdur1gsdur1gsdu.png" height="250">
+<img src="media/Gemini_Generated_Image_gsdur1gsdur1gsdu.png" height="250">
 
    *Pistola 1911 9mm modernizada e customizada para competições de tiro. Capaz de atirar em alta velocidade sem perder a precisão. Possui carregador de 20 munições. Arma de porte diário do Vince.*
    1. **Regra:** 
@@ -197,7 +211,7 @@
 
 ### **Benelli M3 Custom**
 
-<img src="Gemini_Generated_Image_jpg5r7jpg5r7jpg5.png" height="250">
+<img src="media/Gemini_Generated_Image_jpg5r7jpg5r7jpg5.png" height="250">
 
    *Escopeta Customizada do Vince. Utilizada tanto para competições quanto defesa. Capacidade de 10+1 munições.*
    1. **Seletor Híbrido:** Permite alternar entre Semi-Auto e Pump-Action para munições de cargas diferentes.
@@ -253,13 +267,13 @@
 
 # **Gadgets** 
 
-<img src="tacticalrig_l.webp" height="250">
+<img src="media/tacticalrig_l.webp" height="250">
  
 
 
 ### **Race Rig: Safariland 012 + Cinto CR Speed**
 
-   <img src="Gemini_Generated_Image_x2cj7ox2cj7ox2cj.png" height="250">
+   <img src="media/Gemini_Generated_Image_x2cj7ox2cj7ox2cj.png" height="250">
 
    *Este equipamento elimina o atrito. A arma não é "sacada", ela "aparece" na mão.*
 
@@ -272,8 +286,8 @@
 
 ### **Porta-Carregadores de Roletes (Safariland 771)**
 
-<img src="mag-pistol.jpg" height="250">
-<img src="mag-rifle.webp" height="250">
+<img src="media/mag-pistol.jpg" height="250">
+<img src="media/mag-rifle.webp" height="250">
 
    *A recarga no V20 geralmente consome um turno ou exige dividir a parada de dados.*
 
@@ -287,7 +301,7 @@
 
 ### **Coldre Velado de Kydex (Blade-Tech IWB)**
 
-   <img src="SidecarBundleOnWhiteMaster_CP9_1080x.webp" height="250">
+   <img src="media/SidecarBundleOnWhiteMaster_CP9_1080x.webp" height="250">
 
    *Para quando você precisa ser discreto, mas letal.*
 
@@ -299,7 +313,7 @@
 
 ### **CCW Tactical Strippers**
 
-   <img src="shotgun_items_12ga_tactical_strippers_6_shell.jpg" height="250">
+   <img src="media/shotgun_items_12ga_tactical_strippers_6_shell.jpg" height="250">
 
    *Clipes de polímero reforçados com molas de lâmina de aço. Vince pode carregar até 4 desses no cinto, permitindo que ele arranque punhados de munição sem olhar.*
 
@@ -312,13 +326,29 @@
 
 ### **Brigandina Modular AR500**
 
-   <img src="Gemini_Generated_Image_u3v7quu3v7quu3v7.png" height="300">
+   <img src="media/Gemini_Generated_Image_u3v7quu3v7quu3v7.png" height="300">
 
    *Um design de armadura medieval reprojetado com materiais modernos. É modular para reparos fáceis, não afeta mobilidade e possui sistema de absorção de traumas. Porém é pesado pra caralho e cansativo de usar.*
 
    - **Proteção:** +4 dados de absorção.
    - **Cobertura:** Torso e braços apenas
    - **Penalidades:** -1 Dexterity, +1 Dificuldade em Stealth
+
+### **HF Acoustics Earpro: V Edition**
+   
+   *Abafador eletrônico da linha de EPIs da HF Tech. Esse modelo em especifico foi personalizado pelo Vince.*
+
+  1. **Aparência:** Diferente dos abafadores táticos verdes/camuflados do exército, este é Amarelo Segurança ou Laranja Internacional, mas o Vince pintou de preto fosco com spray. Tem o logo da HF em relevo. Vantagem Mecânica:
+  2. **Regra:**
+     1. Concede +2 em testes de Percepção (Audição) mesmo durante tiroteios.
+     2. Integração total com o rádio da equipe.
+  3. **Durabilidade:** Diferente dos Peltor de plástico, a carcaça é de polímero reforçado com fibra de vidro (feito para levar pancada de ferramenta).
+  4. **A Diferença Técnica (Engenharia):**
+     1. **Original (Industrial):** O algoritmo é treinado para ignorar ruídos constantes e repetitivos (motores, serras, esteiras).
+     2. **Modificado (Vince):** O algoritmo foi reajustado para Impulso Súbito.
+        1. Ele aumentou a taxa de amostragem (Sampling Rate) dos microfones.
+        2. O fone agora identifica o pico de pressão de um disparo em microsegundos e inverte a fase da onda para cancelar o som (Cancelamento Ativo de Ruído primitivo, mas brutal).
+        3. O Pulo do Gato: Ele adicionou Ganho nas frequências agudas e baixas (passos em folhas secas, respiração, ferrolho metálico batendo).
 
 <div style="page-break-after: always;"></div>
 
