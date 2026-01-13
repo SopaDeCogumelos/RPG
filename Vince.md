@@ -17,10 +17,10 @@
     - [**Porta-Carregadores de Roletes (Safariland 771)**](#porta-carregadores-de-roletes-safariland-771)
     - [**Coldre Velado de Kydex (Blade-Tech IWB)**](#coldre-velado-de-kydex-blade-tech-iwb)
     - [**CCW Tactical Strippers**](#ccw-tactical-strippers)
-    - [**Bringandina Modular AR500**](#bringandina-modular-ar500)
+    - [**Brigandina Modular AR500**](#brigandina-modular-ar500)
 - [**Notas Sobre o Estilo de combate do Vince**](#notas-sobre-o-estilo-de-combate-do-vince)
     - [IPSC Specialist (Homebrew Merit -2PB):](#ipsc-specialist-homebrew-merit--2pb)
-    - [Inventario de Granadas e Munições:](#inventario-de-granadas-e-munições)
+    - [Inventário de Granadas e Munições:](#inventário-de-granadas-e-munições)
 - [📂 HF TECHNOLOGY - THREAT RESPONSE LOG](#-hf-technology---threat-response-log)
     - [📄 ENTRY #001: "The Wake-Up Call"](#-entry-001-the-wake-up-call)
     - [📄 ENTRY #014: "The Farm Siege"](#-entry-014-the-farm-siege)
@@ -126,13 +126,13 @@
       5. Willpower: 5 (-1 PB)
       6. Faith: 0
    3. Merits:
-      1. Iron Will (Lore: Vince superou lavagem celebral de um vampiro) (-3 PB)
+      1. Iron Will (Lore: Vince superou lavagem cerebral de um vampiro) (-3 PB)
       2. Concentration (Vince é capaz de entrar em hiperfoco) (-1 PB)
       3. IPSC Specialist (-2 PB)
    4. Flaws:
       1. Impatient with People (+1 PB)
-      2. Dark Secret (Vince consegue comprar materia prima de forma legal e sem suspeita, mas não tem licensa para fabricar explosivos na escala que tem feito) (+2 PB)
-      3. Enemy (Vince está sedo caçado por vampiros pois "Sabe Demais") (+3 PB)
+      2. Dark Secret (Vince consegue comprar matéria-prima de forma legal e sem suspeita, mas não tem licença para fabricar explosivos na escala que tem feito) (+2 PB)
+      3. Enemy (Vince está sendo caçado por vampiros pois "Sabe Demais") (+3 PB)
       4. Curiosity (+2 PB)
       5. Obsession / Compulsion: Research or Engineering (Ele não consegue deixar um problema técnico/sobrenatural sem resolver) (+2 PB)
 
@@ -154,7 +154,7 @@
       2. **Falha Crítica (1 em tudo):** Sistema de gás é danificado inutilizando a arma.
    4. **Regra:** 
       1. **Dano:** O dano base é 8 dados.
-         1. Inimigos sem Fotitude recembem +1 de dano Agravado
+         1. Inimigos sem Fortitude recebem +1 de dano Agravado
          2. Rötschreck: O alvo atingido precisa fazer teste de coragem (Diff 5)
       2. **Bônus:** 
          1. *Mira Holográfica* +1 dado em testes de mira e precisão.
@@ -170,10 +170,10 @@
    *Pistola .30 Carbine Customizada pelo Vince. É um canhão de mão para caçar monstros. Possui carregador estendido de 12 munições.*
    1. **Customização:** Compensador de recuo superdimensionado para melhorar controle ou supressor para abafar sons de disparo.
       1. **Supressor:** Aumenta a Dificuldade de Percepção dos inimigos para ouvir o tiro.
-      2. **Compensador:** Diminuir a Dificuldade do seu segundo tiro no mesmo turno (tiro rápido).
+      2. **Compensador:** -1 Dificuldade em disparos sequenciais (tiro rápido).
    2. **Munição:** .30 Carbine "Hot Load" (Pólvora de queima rápida + Ponta Oca com Óxido de Prata ou Magnésio).
       1. **Munição de Magnésio:**
-         1. Inimigos sem Fotitude recembem +1 de dano Agravado
+         1. Inimigos sem Fortitude recebem +1 de dano Agravado
          2. **Contra Vampiros:** Rötschreck: O alvo atingido precisa fazer teste de coragem (Diff 5)
       2. **Munição de Prata Contra Lobisomens:** O dano é Agravado e não pode ser absorvido.
    3. **Regra:**
@@ -191,7 +191,7 @@
       1. **Dano:** Letal, 4 dados.
       2. **Bônus:** 
          1. *Red Dot:* +1 dado em testes de mira e precisão.
-         2. *Race Gun:* -1 de dificuldade em todas as ações com a arma
+         2. *Race Gun:* -2 de dificuldade em todas as ações com a arma
 
 <div style="page-break-after: always;"></div>
 
@@ -207,7 +207,7 @@
       3. **Sabot Slug:** Um balote de Tungstênio numa cápsula de resina. Feito para penetrar blindagem. Ignora armadura (Regra do V20/HH2).
          1. Utiliza carga pesada de propelentes, pode danificar a arma se utilizado em modo semi-automatico.
       4. **Dragon's Breath:** Munição de magnésio que causa efeito incendiário, tem dano reduzido para 4, porém Agravado. Pode utilizar chokers.
-   3. **Regra de Dano:** 8 Dados.
+   3. **Regra de Dano Base:** 8 Dados.
 
 <div style="page-break-after: always;"></div>
 
@@ -216,7 +216,7 @@
 # Arsenal Químico
 
 ### **Granadas Químicas "Green Gas" (CR/Cloropicrina):**
-   *Granadas de gás feitas duma mistura de CR e Cloropicrina. Causam inflamação das mucosas e cegueira. Podem preencher por completo um ambiente fechado ou um raio de até 3m em céu aberto. O gás não é letal, mas é um dos poucos quimicos que funciona contra vampiros.*
+   *Granadas de gás feitas duma mistura de CR e Cloropicrina. Causam inflamação das mucosas e cegueira. Podem preencher por completo um ambiente fechado ou um raio de até 3m em céu aberto. O gás não é letal, mas é um dos poucos químicos que funciona contra vampiros.*
    1. **Regra:** A vítima rola teste de resistência Dificuldade 8
       1. **Falha:** A vítima fica Cega e com Dor Extrema. **Penalidade de -3 dados em todas as ações**.
       2. **Falha Crítica:** A vítima inala altas quantidades de gás. **Incapacitada (só pode se arrastar enquanto engasga no próprio vômito)**.
@@ -232,13 +232,13 @@
    4. **Estrela da Manhã:**
       *Uma granada incendiária e uma flashbang se amaram muito e tiveram um filho*
       1. **Receita especial do Vince:**
-      *Vince mói o nitrato de amônio em um moinho de bolas até virar talco. Depois, mistura com o pó de magnésio e adiciona a limalha de alumínio da sua fresadora. O resultado é um pó cinza que, quando detonado, cria um explosivo incendiario de 3.000°C e um flash de luz tão intenso que, a curta distancia, parece um sol verdadeiro.*
+      *Vince mói o nitrato de amônio em um moinho de bolas até virar talco. Depois, mistura com o pó de magnésio e adiciona a limalha de alumínio da sua fresadora. O resultado é um pó cinza que, quando detonado, cria um explosivo incendiário de 3.000°C e um flash de luz tão intenso que, a curta distância, parece um sol verdadeiro.*
       2. **Composição detalhada:**
          1. **ANFO:** Nitrato de amônio extraído de fertilizantes, triturado e misturado com combustível líquido (Diesel, Gasolina, Etanol, Metanol ou Nitrometano). Vince utiliza Nitrometano para maximizar o poder explosivo.
          2. **Pó de Alumínio:** Serve para aumentar a temperatura da reação através das reações de alumínio com óxidos.
          3. **Magnésio:** Metal que quando entra em combustão emite luz branca muito forte e uma grande quantidade de raios UV-A e UV-B.
          4. **ETN:** Aditivo oxidante.
-      3. ***Nota:*** *Olhar diretamente para a detonação desse explosivo sem proteção (como mascaras/oculos de solda) pode causar danos permanentes a visão.*
+      3. ***Nota:*** *Olhar diretamente para a detonação desse explosivo sem proteção (como máscaras/óculos de solda) pode causar danos permanentes a visão.*
       4. **Regra:**
          - **Dano:** 4 Agravado (fogo) em raio de 3m do epicentro
          - **Flash:** Todos em 5m testam Destreza + Prontidão (dif 8) ou ficam cegos por 1d3 turnos
@@ -264,7 +264,7 @@
    *Este equipamento elimina o atrito. A arma não é "sacada", ela "aparece" na mão.*
 
    **Regra Especial: "Zero Drag Draw"**
-   1. **Efeito (Iniciativa):** Se Vince declarar que vai sacar a arma no início do turno, ele soma **+1 na Iniciativa final**. (A arma sai do coldre antes que o inimigo termine de piscar).
+   1. **Efeito (Iniciativa):** Se Vince declarar que vai sacar a arma no início do turno, o saque se torna ação reflexiva. (A arma sai do coldre antes que o inimigo termine de piscar).
    2. **Efeito (Saque Rápido):** O teste de Saque Rápido (Fast Draw) tem **Dificuldade -2 em saque rápido.**
    3. **Penalidade (A Falha do Equipamento):** Este coldre não tem retenção de segurança. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 5). Se falhar, a arma cai no chão.
 
@@ -278,7 +278,7 @@
    *A recarga no V20 geralmente consome um turno ou exige dividir a parada de dados.*
 
    **Regra Especial: "Lightning Reload"**
-   1. **Efeito:** Quando for recarregar, diminui penalidade por ação multipla em 2, SOMENTE PARA RECARGAS.
+   1. **Efeito:** Recargas consomem apenas uma ação no turno e não adicionam penalidade de ação multipla. SOMENTE SE APLICA A MUNIÇÕES NESSES PORTA-CARREGADORES!
    2. **Requisito:** Vince precisa ter munição nesses porta-carregadores específicos. Se ele tirar do bolso da calça ou outro porta-carregadores, é a regra normal.
    3. **Na Narrativa:** "Enquanto a mão direita ainda está disparando o último tiro, a esquerda já está com um novo carregador cheio. O ciclo não para."
    4. **Penalidade:** Este porta-carregadores é de baixa retenção. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 5). Se falhar, as munições caem no chão.
@@ -304,21 +304,21 @@
    *Clipes de polímero reforçados com molas de lâmina de aço. Vince pode carregar até 4 desses no cinto, permitindo que ele arranque punhados de munição sem olhar.*
 
    **Regra Especial: "Stripper Clip Reload"**
-   1. **Efeito:** Permite carregar 4 cartuchos por ação (em vez de 2). Tecnica de Quad-Load.
+   1. **Efeito:** Permite carregar 4 cartuchos por ação (em vez de 2). Técnica de Quad-Load.
    2. **Vantagem Tática:** Esses clipes são compactos. Se o Vince estiver de jaqueta, eles mal aparecem.
-   3. **Penalidade:** Este porta-capsulas é de baixa retenção. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 4). Se falhar, as munições caem no chão.
+   3. **Penalidade:** Este porta-cápsulas é de baixa retenção. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 4). Se falhar, as munições caem no chão.
 
 
 
-### **Bringandina Modular AR500**
+### **Brigandina Modular AR500**
 
    <img src="Gemini_Generated_Image_u3v7quu3v7quu3v7.png" height="300">
 
-   *Um design de armadura medieval reprojetado com materiais modernos. É modular para reparos faceis, não afeta mobilidade e possui sistema de absorção de traumas. Porém é pesado pra caralho e cansativo de usar.*
+   *Um design de armadura medieval reprojetado com materiais modernos. É modular para reparos fáceis, não afeta mobilidade e possui sistema de absorção de traumas. Porém é pesado pra caralho e cansativo de usar.*
 
    - **Proteção:** +4 dados de absorção.
    - **Cobertura:** Torso e braços apenas
-   - **Penalidades:** -1 Stamina e Dexterity, +1 Dificuldade em Stealth
+   - **Penalidades:** -1 Dexterity, +1 Dificuldade em Stealth
 
 <div style="page-break-after: always;"></div>
 
@@ -327,7 +327,7 @@
 # **Notas Sobre o Estilo de combate do Vince**
 
 ### IPSC Specialist (Homebrew Merit -2PB):
-   - Vince possui uma execelente memoria muscular graças ou treino extensivo de:
+   - Vince possui uma excelente memória muscular graças ao treino extensivo de:
      - El Presidente Drill
      - F.A.S.T. Drill
      - The Bill Drill
@@ -337,7 +337,7 @@
      - Quad-Load
      - Double Tap
   - **Regra:**
-     - O custo de ações multiplas diminui em 2 ao executar qualquer drill (ou variação delas)
+     - Ao declarar que está fazendo uma das drills listadas, sequências de disparos contam como ação única, porém o dano máximo de cada disparo será o dano base, não podendo receber bônus de sucessos.
      - Como atirador profissional no IPSC, Vince consegue atirar e recarregar armas enquanto se movimenta com penalidades reduzidas (0 andando, +1 correndo)
      - Não se aplica a combate corpo-a-corpo, outras habilidades ou ações não listadas
 
@@ -345,25 +345,25 @@
 
 ---
 
-### Inventario de Granadas e Munições:
-   Vince possui um limite de items que pode levar consigo:
+### Inventário de Granadas e Munições:
+   Vince possui um limite de itens que pode levar consigo:
    1. Cinto 8 Slots:
       1. Porta carregadores: 1 slot cada (pistola ou rifle)
-      2. Porta capsulas: 1 slots cada (12ga)
+      2. Porta cápsulas: 1 slot cada (12ga)
       3. Coldres: 2 Slots
       4. Granadas/Explosivos: 2 slots
    *Os equipamentos Safariland só podem ser utilizados no cinto.*
    2. Bolsos 12 Slots (Vince ama calças cargo)
       1. Carregadores de pistola: 1 slot
       2. Carregadores de Rifle: 2 slots
-      3. Capsulas de 12ga: 4 -> 1 slot
+      3. Cápsulas de 12ga: 4 -> 1 slot
       4. Granadas e explosivos: 2 slots
-   3. Bringadina (20 slots, -1 Stamina quando equipado)
+   3. Brigandina (20 slots, -1 Stamina quando equipado)
       1. Carregadores de pistola: 1 slot
       2. Carregadores de Rifle: 2 slots
-      3. Capsulas de 12ga: 4 -> 1 slot
+      3. Cápsulas de 12ga: 4 -> 1 slot
       4. Granadas e explosivos: 2 slots
-   4. **HF Multitool:** Ferramenta fabricada pela empresa do Vince, contem:
+   4. **HF Multitool:** Ferramenta fabricada pela empresa do Vince, contém:
       1. Canivete
       2. Alicate
       3. Kit de Chaves de Precisão
@@ -423,7 +423,7 @@
 
    *Nota 1: Comprar mais gansos. Eles detectaram as ameaças antes da eletrônica.*
    
-   *Nota 2: Terei de cavar um tumulo pros falecidos.*
+   *Nota 2: Terei de cavar um túmulo pros falecidos.*
 
 <div style="page-break-after: always;"></div>
 

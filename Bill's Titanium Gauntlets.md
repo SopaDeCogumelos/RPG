@@ -22,5 +22,7 @@
    2. **Articulação:** Em vez de rebites de ferro batido que podem afrouxar, usamos rebites de aço inox de alta pressão, com arruelas de Nylon entre as placas para garantir um deslize silencioso e sem atrito (sem o "nhec-nhec" de metal com metal).
    3. **Acabamento:** O AR500 enferruja. A manopla recebe um revestimento de *DLC (Diamond-Like Carbon)* para proteção anticorrosiva total.
 2. **Sistema de Absorção:** Utiliza espumas de polímero não-newtoniano sob as placas de AR500 para absorver impactos.
+   - O revestimento interno utiliza um polímero não newtoniano com propriedades de espessamento por cisalhamento (Shear Thickening Fluid). Em repouso, o material mantém as cadeias moleculares relaxadas para garantir destreza motora; sob impacto cinético súbito, a estrutura reticula-se instantaneamente, transitando para um estado rígido em milissegundos. Esse processo de transição de fase consome a energia do impacto (histerese), dissipando a força antes que ela seja transferida para a estrutura óssea do operador.
+   - Sob estresse a luva irá esquentar devido o sistema de absorção.
 3. **Tecido Base:** Luva tática de Kevlar de trama fechada.
    1. **Vantagem:** Resistência nível 5 a cortes. Se uma lâmina escorregar por entre as placas de aço, o tecido não rasga, protegendo tendões e artérias.
