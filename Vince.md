@@ -48,50 +48,58 @@
 
 **Natureza/Comportamento:** Perfeccionista / Autista (Focado/Analítico)
 
-<img src="media\Vince V3\Gemini_Generated_Image_6mpmtu6mpmtu6mpm.png">
-<img src="media\Vince V3\Gemini_Generated_Image_ihi1guihi1guihi1.png">
+<p align="center">
+  <img src="media\Vince V3\Gemini_Generated_Image_6mpmtu6mpmtu6mpm.png" height="45%">
+  <img src="media\Vince V3\Gemini_Generated_Image_ihi1guihi1guihi1.png" height="45%">
+</p>
 
 1. **Histórico e Carreira**
+
+   <img src="media\Vince V3\Gemini_Generated_Image_g4hlf1g4hlf1g4hl.png" align="right" width="300" style="margin-left:15px; margin-bottom:10px;">
 
    Nascido em uma família tradicional de produtores rurais, Vince sempre teve uma relação diferente com o campo: enquanto outros viam colheitas, ele via a mecânica dos tratores. Aos 12 anos, já desmontava e consertava o maquinário pesado da fazenda, demonstrando uma aptidão técnica prodigiosa.
    O seu interesse por armas de fogo seguiu a mesma lógica analítica. Longe da cultura de caça, Vince encontrou no tiro esportivo uma disciplina de precisão e controle. Começou com rifles de ar na juventude e migrou para o IPSC (Tiro Prático) assim que atingiu a idade permitida, competindo em circuitos regionais durante toda a sua vida adulta. Para Vince, o tiro não é violência; é balística aplicada e memória muscular.
    Sua mente analítica o levou ao MIT (Massachusetts Institute of Technology), onde se formou em Engenharia Mecatrônica. Foi lá que conheceu Chris Herrera, um colega brilhante com quem fundou a HF Technology (Herrera & Ferrara). A empresa, especializada em automação industrial e robótica pesada, tornou-se referência no setor, garantindo a Vince uma fortuna considerável (Recursos 5) e acesso irrestrito a tecnologias de ponta.
    Apesar da riqueza, Vince manteve suas raízes. Herdou parte das terras da família, mas optou por arrendar o cultivo para seu irmão, Bruno, mantendo para si apenas a antiga sede e o galpão principal, que converteu em residência e laboratório de P&D de alta segurança.
-
-   <img src="media\Vince V3\Gemini_Generated_Image_g4hlf1g4hlf1g4hl.png">
+   <br clear="all">
 
 2. **O Incidente (1996)**
    
+   <img src="media\Vince V3\Gemini_Generated_Image_ydvvc2ydvvc2ydvv.png" align="left" width="300" style="margin-right:15px; margin-bottom:10px;">
+
    A visão de mundo de Vince foi fraturada em 1996, durante uma consultoria técnica em uma metalúrgica cliente da HF. Chamado para investigar a falha catastrófica de uma prensa hidráulica de 50 toneladas, fizeram de **tudo** (incluindo controle mental) para convencer Vince de que a causa do acidente foi "fadiga de material", mas ele rejeitou o laudo oficial.
    Sua análise forense e o acesso às gravações de segurança revelaram o impossível: um intruso humanoide parando o maquinário colossal com as próprias mãos para extrair um objeto, antes de desaparecer em uma velocidade que desafiava a física. Aquilo não era uma falha mecânica; era uma violação das leis naturais.
-
-   <img src="media\Vince V3\Gemini_Generated_Image_ydvvc2ydvvc2ydvv.png">
+   <br clear="all">
 
 3. **A Escalada e o Ataque (Início de 1997)**
    
+   <img src="media\Vince V3\Gemini_Generated_Image_atudzgatudzgatud.png" align="right" width="300" style="margin-left:15px; margin-bottom:10px;">
+
    Movido por uma curiosidade científica obsessiva (Defeito: Curiosidade), Vince iniciou uma investigação digital para encontrar padrões de "acidentes industriais" semelhantes. Sua busca atraiu a atenção errada.
    No início de 1997, sua fazenda foi invadida por um grupo de "agentes de limpeza" (carniçais) enviados para silenciá-lo. Vince sobreviveu apenas graças à sua competência no IPSC e ao conhecimento do terreno, mas a mensagem foi clara: ele estava lidando com predadores organizados e fisicamente superiores. Vince entendeu que a diplomacia era inútil e recuou estrategicamente, usando a desculpa de "projetos confidenciais da HF" para se isolar e preparar uma resposta.
-
-   <img src="media\Vince V3\Gemini_Generated_Image_atudzgatudzgatud.png">
+   <br clear="all">
 
 4. **O Hiato e o Preparo* (1997-1999)**
    
+   <img src="media\Vince V3\Gemini_Generated_Image_wxca7lwxca7lwxca.png" align="left" width="300" style="margin-right:15px; margin-bottom:10px;">
+
    Nos dois anos seguintes, Vince transformou sua oficina em uma fábrica de contramedidas. Incapaz de competir fisicamente com o sobrenatural, ele focou na superioridade tecnológica ("Engenharia de Combate"):
    Balística Avançada: Desenvolveu munições experimentais (API e Incendiárias de Magnésio) para anular a resistência física e a regeneração dos alvos.
    Proteção: Adaptou chapas de aço AR500, usadas em máquinas da HF, para criar uma Brigandina moderna — uma armadura corporal capaz de suportar danos massivos sem sacrificar totalmente a mobilidade.
    Mobilidade Tática: Adquiriu e modificou um protótipo da nova Mitsubishi Pajero 4M41, hackeando a ECU e instalando sistemas industriais para criar um veículo de extração robusto.
-
-   <img src="media\Vince V3\Gemini_Generated_Image_wxca7lwxca7lwxca.png">
+   <br clear="all">
 
 5. **Status Atual (1999)**
    
    Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o mesmo engenheiro de sucesso, talvez apenas mais sério e observador. Na realidade, ele é um caçador metódico que não busca heroísmo, mas eficiência. Ele encara os vampiros não como monstros místicos, mas como problemas de engenharia complexos que requerem soluções térmicas e cinéticas definitivas.
 
-   <img src="media\Vince V3\Gemini_Generated_Image_xc1v15xc1v15xc1v.png">
-   <img src="media\Vince V3\Gemini_Generated_Image_hhyv0whhyv0whhyv.png">
-   <img src="media\Vince V3\Gemini_Generated_Image_ej17pqej17pqej17.png">
-   <img src="media\Vince V3\Gemini_Generated_Image_ing4dming4dming4.png">
-   <img src="media\Vince V3\Gemini_Generated_Image_ybhoi8ybhoi8ybho.png">
+<div align="center">
+   <img src="media\Vince V3\Gemini_Generated_Image_xc1v15xc1v15xc1v.png" width="30%" style="margin: 5px;">
+   <img src="media\Vince V3\Gemini_Generated_Image_hhyv0whhyv0whhyv.png" width="30%" style="margin: 5px;">
+   <img src="media\Vince V3\Gemini_Generated_Image_ybhoi8ybhoi8ybho.png" width="30%" style="margin: 5px;">
+   <img src="media\Vince V3\Gemini_Generated_Image_ej17pqej17pqej17.png" width="30%" style="margin: 5px;">
+   <img src="media\Vince V3\Gemini_Generated_Image_ing4dming4dming4.png" width="30%" style="margin: 5px;">
+</div>
 
 <div style="page-break-after: always;"></div>
 
