@@ -49,13 +49,13 @@
 **Natureza/Comportamento:** Perfeccionista / Autista (Focado/Analítico)
 
 <p align="center">
-  <img src="media\Vince V3\Gemini_Generated_Image_6mpmtu6mpmtu6mpm.png" height="45%">
-  <img src="media\Vince V3\Gemini_Generated_Image_ihi1guihi1guihi1.png" height="45%">
+  <img src="media\Vince V3\Gemini_Generated_Image_6mpmtu6mpmtu6mpm.png" height="350" style="margin-right: 10px">
+  <img src="media\Vince V3\Gemini_Generated_Image_g4hlf1g4hlf1g4hl.png" height="350" style="margin-left: 10px">
 </p>
 
 1. **Histórico e Carreira**
 
-   <img src="media\Vince V3\Gemini_Generated_Image_g4hlf1g4hlf1g4hl.png" align="right" width="300" style="margin-left:15px; margin-bottom:10px;">
+   <img src="media\Vince V3\Gemini_Generated_Image_ihi1guihi1guihi1.png" align="right" width="300" style="margin-left:15px; margin-bottom:10px;">
 
    Nascido em uma família tradicional de produtores rurais, Vince sempre teve uma relação diferente com o campo: enquanto outros viam colheitas, ele via a mecânica dos tratores. Aos 12 anos, já desmontava e consertava o maquinário pesado da fazenda, demonstrando uma aptidão técnica prodigiosa.
    O seu interesse por armas de fogo seguiu a mesma lógica analítica. Longe da cultura de caça, Vince encontrou no tiro esportivo uma disciplina de precisão e controle. Começou com rifles de ar na juventude e migrou para o IPSC (Tiro Prático) assim que atingiu a idade permitida, competindo em circuitos regionais durante toda a sua vida adulta. Para Vince, o tiro não é violência; é balística aplicada e memória muscular.
