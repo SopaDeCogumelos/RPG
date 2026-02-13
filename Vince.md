@@ -20,15 +20,14 @@
     - [**Brigandina Modular AR500**](#brigandina-modular-ar500)
     - [**HF Acoustics Earpro: V Edition**](#hf-acoustics-earpro-v-edition)
 - [**Notas Sobre o Estilo de combate do Vince**](#notas-sobre-o-estilo-de-combate-do-vince)
-    - [IPSC Specialist (Homebrew Merit -2PB):](#ipsc-specialist-homebrew-merit--2pb)
+    - [IPSC Grand Master (Homebrew Merit -2PB):](#ipsc-grand-master-homebrew-merit--2pb)
+    - [Supressão e "Munição Infinita":](#supressão-e-munição-infinita)
     - [Inventário de Granadas e Munições:](#inventário-de-granadas-e-munições)
 - [📂 HF TECHNOLOGY - THREAT RESPONSE LOG](#-hf-technology---threat-response-log)
     - [📄 ENTRY #001: "The Wake-Up Call"](#-entry-001-the-wake-up-call)
     - [📄 ENTRY #014: "The Farm Siege"](#-entry-014-the-farm-siege)
     - [📄 ENTRY #023: "The Alpha Intruder"](#-entry-023-the-alpha-intruder)
     - [📝 Inventário de Defesa da Propriedade](#-inventário-de-defesa-da-propriedade)
-- [Trilha Sonora](#trilha-sonora)
-    - [**"Red Soil, Lead Harvester"**](#red-soil-lead-harvester)
 
 <div style="page-break-after: always;"></div>
 
@@ -63,7 +62,16 @@
    Apesar da riqueza, Vince manteve suas raízes. Herdou parte das terras da família, mas optou por arrendar o cultivo para seu irmão, Bruno, mantendo para si apenas a antiga sede e o galpão principal, que converteu em residência e laboratório de P&D de alta segurança.
    <br clear="all">
 
-2. **O Incidente (1996)**
+2. **Ascensão da HF Technology (1993-1996)**
+
+   Em uma era definida pela "Guerra dos Fieldbus", onde gigantes como Siemens (Profibus) e Rockwell (DeviceNet) lutavam pela supremacia com protocolos incompatíveis, Vince e Herrera enxergaram uma oportunidade de ouro. Eles perceberam que o futuro não estava em escolher um lado, mas em criar a ponte entre todos eles.
+   
+   A HF Technology lançou o **HF-Nexus**, um controlador universal capaz de traduzir protocolos proprietários em tempo real, permitindo a integração vertical do chão de fábrica (OT) com os sistemas de gestão corporativa (IT) via Ethernet — algo considerado revolucionário e arriscado na época.
+   
+   O sucesso foi explosivo. A HF se tornou peça-chave na modernização da indústria automobilística, fornecendo a infraestrutura de comunicação para as linhas de montagem do novo Mercedes-Benz Classe S (W220) e para as "Três Grandes" de Detroit. Em 1996, com a consolidação do padrão OPC e a invasão do Windows NT 4.0 nos sistemas SCADA, a HF já era líder de mercado em integração mecatrônica, transformando Vince em um multimilionário antes dos 30 anos. Essa fortuna e o acesso a tecnologias industriais de ponta formariam a base do seu arsenal futuro.
+   <br clear="all">
+
+3. **O Incidente (1996)**
    
    <img src="media\Vince V3\Gemini_Generated_Image_ydvvc2ydvvc2ydvv.png" align="left" width="300" style="margin-right:15px; margin-bottom:10px;">
 
@@ -71,7 +79,7 @@
    Sua análise forense e o acesso às gravações de segurança revelaram o impossível: um intruso humanoide parando o maquinário colossal com as próprias mãos para extrair um objeto, antes de desaparecer em uma velocidade que desafiava a física. Aquilo não era uma falha mecânica; era uma violação das leis naturais.
    <br clear="all">
 
-3. **A Escalada e o Ataque (Início de 1997)**
+4. **A Escalada e o Ataque (Início de 1997)**
    
    <img src="media\Vince V3\Gemini_Generated_Image_atudzgatudzgatud.png" align="right" width="300" style="margin-left:15px; margin-bottom:10px;">
 
@@ -79,7 +87,7 @@
    No início de 1997, sua fazenda foi invadida por um grupo de "agentes de limpeza" (carniçais) enviados para silenciá-lo. Vince sobreviveu apenas graças à sua competência no IPSC e ao conhecimento do terreno, mas a mensagem foi clara: ele estava lidando com predadores organizados e fisicamente superiores. Vince entendeu que a diplomacia era inútil e recuou estrategicamente, usando a desculpa de "projetos confidenciais da HF" para se isolar e preparar uma resposta.
    <br clear="all">
 
-4. **O Hiato e o Preparo* (1997-1999)**
+5. **O Hiato e o Preparo* (1997-1999)**
    
    <img src="media\Vince V3\Gemini_Generated_Image_wxca7lwxca7lwxca.png" align="left" width="300" style="margin-right:15px; margin-bottom:10px;">
 
@@ -89,7 +97,7 @@
    Mobilidade Tática: Adquiriu e modificou um protótipo da nova Mitsubishi Pajero 4M41, hackeando a ECU e instalando sistemas industriais para criar um veículo de extração robusto.
    <br clear="all">
 
-5. **Status Atual (1999)**
+6. **Status Atual (1999)**
    
    Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o mesmo engenheiro de sucesso, talvez apenas mais sério e observador. Na realidade, ele é um caçador metódico que não busca heroísmo, mas eficiência. Ele encara os vampiros não como monstros místicos, mas como problemas de engenharia complexos que requerem soluções térmicas e cinéticas definitivas.
 
@@ -154,7 +162,7 @@
    3. Merits:
       1. Iron Will (Lore: Vince superou lavagem cerebral de um vampiro) (-3 PB)
       2. Concentration (Vince é capaz de entrar em hiperfoco) (-1 PB)
-      3. IPSC Specialist (-2 PB)
+      3. IPSC Grand Master (-2 PB)
    4. Flaws:
       1. Impatient with People (+1 PB)
       2. Dark Secret (Vince consegue comprar matéria-prima de forma legal e sem suspeita, mas não tem licença para fabricar explosivos na escala que tem feito) (+2 PB)
@@ -212,9 +220,9 @@
 
 <img src="media/Gemini_Generated_Image_gsdur1gsdur1gsdu.png" height="250">
 
-   *Pistola 1911 9mm modernizada e customizada para competições de tiro. Capaz de atirar em alta velocidade sem perder a precisão. Possui carregador de 20 munições. Arma de porte diário do Vince.*
+   *Pistola 1911 calibrada para munição 9mm Major (Hot Load), customizada para competições de tiro na categoria Open. Capaz de atirar em alta velocidade sem perder a precisão. Possui carregador de 20 munições. Arma de porte diário do Vince.*
    1. **Regra:** 
-      1. **Dano:** Letal, 4 dados.
+      1. **Dano:** Letal, 5 dados (devido à munição 9mm Major de alto fator de potência).
       2. **Bônus:** 
          1. *Red Dot:* +1 dado em testes de mira e precisão.
          2. *Race Gun:* -2 de dificuldade em todas as ações com a arma
@@ -225,7 +233,7 @@
 
 <img src="media/Gemini_Generated_Image_jpg5r7jpg5r7jpg5.png" height="250">
 
-   *Escopeta Customizada do Vince. Utilizada tanto para competições quanto defesa. Capacidade de 10+1 munições.*
+   *Escopeta Customizada do Vince. Utilizada tanto para competições quanto defesa. Capacidade de 10+1+1 munições (Ghost Load).*
    1. **Seletor Híbrido:** Permite alternar entre Semi-Auto e Pump-Action para munições de cargas diferentes.
    2. **Munições:**
       1. **00 Buckshot:** Utiliza dano físico básico, pode ser combinado com choker de spread.
@@ -368,7 +376,7 @@
 
 # **Notas Sobre o Estilo de combate do Vince**
 
-### IPSC Specialist (Homebrew Merit -2PB):
+### IPSC Grand Master (Homebrew Merit -2PB):
    - Vince possui uma excelente memória muscular graças ao treino extensivo de:
      - El Presidente Drill
      - F.A.S.T. Drill
@@ -382,6 +390,10 @@
      - Ao declarar que está fazendo uma das drills listadas, sequências de disparos contam como ação única, porém o dano máximo de cada disparo será o dano base, não podendo receber bônus de sucessos.
      - Como atirador profissional no IPSC, Vince consegue atirar e recarregar armas enquanto se movimenta com penalidades reduzidas (0 andando, +1 correndo)
      - Não se aplica a combate corpo-a-corpo, outras habilidades ou ações não listadas
+
+### Supressão e "Munição Infinita":
+   *A combinação de carregadores de alta capacidade (20+1 na STI, 12 na Benelli) e recargas instantâneas cria um efeito psicológico devastador.*
+   - **Tática de Terror:** Inimigos acostumados com armas convencionais podem assumir que Vince tem munição ilimitada ou falhar em prever seus momentos de vulnerabilidade (recarga), forçando-os a permanecerem na defensiva/cobertura por mais tempo do que o necessário. 
 
 <div style="page-break-after: always;"></div>
 
@@ -466,84 +478,3 @@
    *Nota 1: Comprar mais gansos. Eles detectaram as ameaças antes da eletrônica.*
    
    *Nota 2: Terei de cavar um túmulo pros falecidos.*
-
-<div style="page-break-after: always;"></div>
-
----
-
-# Trilha Sonora
-
-### **"Red Soil, Lead Harvester"**
-**Gênero:** *Experimental Doom Metal fused with Brazilian Sertanejo Raiz and Industrial*
-
-**Estilo:**
-* **[Intro]** features bright, metallic acoustic folk guitar (twangy sound) playing a minor key melody.
-* **[Verses]** are slow, heavy, atmospheric, with deep male vocals (Peter Steele style).
-* **[Chorus]** shifts to Fast Tempo, aggressive Industrial Metal beat, repetitive and catchy hook, heavy distortion, mechanical rhythm, Dark, gritty, agricultural horror atmosphere.
-
-**Letra:**
-
-> **[Intro]**
->
-> **[Verse 1]**
-> The red dust settles on the skin
-> Where the silence ends, and the gears begin
-> No heartbeat found in the chest of steel
-> Only the weight of the turning wheel
-> They look for mercy in the hollow dark
-> But the engine leaves... a permanent mark.
->
-> **[Pre-Chorus]**
-> Calculated... Cold...
-> The story ends... before it's told.
->
-> **[Chorus]**
-> Grind the bone! Feed the soil!
-> Years of rust! Years of toil!
-> Run if you can, but the math is done
-> There is no shelter! There is no sun!
-> Face the gear! Face the blade!
-> The debt of blood is fully paid!
->
-> **[Verse 2]**
-> Something ancient screams in the night
-> Something modern kills the light
-> I feel the trembling of the ground
-> A frequency... a low-end sound
-> It’s not anger, it’s not hate
-> It’s just the crushing weight of fate.
->
-> **[Pre-Chorus]**
-> System engaged... Target locked...
-> The door to the soul... is double-locked.
->
-> **[Chorus]**
-> Grind the bone! Feed the soil!
-> Years of rust! Years of toil!
-> Run if you can, but the math is done
-> There is no shelter! There is no sun!
-> Face the gear! Face the blade!
-> The debt of blood is fully paid!
->
-> **[Bridge]**
-> Efficiency is the only morality.
-> Flesh is temporary.
-> Steel is forever.
->
-> **[Verse 3]**
-> The smoke is rising, black and thick
-> The cure is painful... for the sick
-> Walk away from the burning field
-> Witness the power that refuses to yield.
->
-> **[Chorus]**
-> Grind the bone! Feed the soil!
-> Years of rust! Years of toil!
-> Run if you can, but the math is done
-> There is no shelter! There is no sun!
-> Face the gear! Face the blade!
-> The debt of blood is fully paid!
->
-> **[Outro]**
-> Grind the bone! Feed the soil!
-> ...
