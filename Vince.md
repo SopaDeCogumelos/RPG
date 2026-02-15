@@ -5,10 +5,10 @@
   - [Dossiê: Vincent "Vince" Ferrara](#dossiê-vincent-vince-ferrara)
 - [Ficha do Vince:](#ficha-do-vince)
 - [Arsenal Balístico](#arsenal-balístico)
-    - [**FCB-308 "Chimera" (Ferrara Custom Bullpup)**](#fcb-308-chimera-ferrara-custom-bullpup)
-    - [**AMT Automag III Custom**](#amt-automag-iii-custom)
-    - [**STI Edge 2011 Custom**](#sti-edge-2011-custom)
     - [**Benelli M3 Custom**](#benelli-m3-custom)
+    - [**STI Edge 2011 Custom**](#sti-edge-2011-custom)
+    - [**STI 2011 "The Hammer" (.460 Rowland)**](#sti-2011-the-hammer-460-rowland)
+    - [**FCB-308 "Chimera" (Ferrara Custom Bullpup)**](#fcb-308-chimera-ferrara-custom-bullpup)
 - [Arsenal Químico](#arsenal-químico)
     - [**Granadas Químicas "Green Gas" (CR/Cloropicrina):**](#granadas-químicas-green-gas-crcloropicrina)
     - [**Explosivos:**](#explosivos)
@@ -64,11 +64,11 @@
 
 2. **Ascensão da HF Technology (1993-1996)**
 
-   Em uma era definida pela "Guerra dos Fieldbus", onde gigantes como Siemens (Profibus) e Rockwell (DeviceNet) lutavam pela supremacia com protocolos incompatíveis, Vince e Herrera enxergaram uma oportunidade de ouro. Eles perceberam que o futuro não estava em escolher um lado, mas em criar a ponte entre todos eles.
+   Em uma era definida pela brutal "Guerra dos Fieldbus", onde gigantes como Siemens (Profibus) e Rockwell (DeviceNet) lutavam pela supremacia segregando o mercado com protocolos incompatíveis, Vince e Herrera enxergaram uma falha sistêmica. Eles perceberam que o futuro não estava na fidelidade a uma marca, mas na interoperabilidade agnóstica.
    
-   A HF Technology lançou o **HF-Nexus**, um controlador universal capaz de traduzir protocolos proprietários em tempo real, permitindo a integração vertical do chão de fábrica (OT) com os sistemas de gestão corporativa (IT) via Ethernet — algo considerado revolucionário e arriscado na época.
+   A HF Technology lançou o **HF-Nexus**, um *gateway* industrial universal capaz de traduzir protocolos proprietários em tempo real, permitindo a primeira integração vertical estável entre o chão de fábrica (OT) e os sistemas de gestão corporativa (IT) via Ethernet — uma manobra considerada tecnicamente herética e arriscada na época.
    
-   O sucesso foi explosivo. A HF se tornou peça-chave na modernização da indústria automobilística, fornecendo a infraestrutura de comunicação para as linhas de montagem do novo Mercedes-Benz Classe S (W220) e para as "Três Grandes" de Detroit. Em 1996, com a consolidação do padrão OPC e a invasão do Windows NT 4.0 nos sistemas SCADA, a HF já era líder de mercado em integração mecatrônica, transformando Vince em um multimilionário antes dos 30 anos. Essa fortuna e o acesso a tecnologias industriais de ponta formariam a base do seu arsenal futuro.
+   O sucesso foi explosivo. O capital gerado permitiu à HF fundar seu departamento de "Advanced R&D", liderado pessoalmente por Vince, e expandir seu alcance no mercado com o desenvolvimento de hardware para *retrofitting* e modernização de máquinas legadas. Eles criaram sistemas de potência e controle proprietários com capacidade *Plug & Play* que parasitavam o hardware dos concorrentes para melhorá-los. Em 1996, com a consolidação do padrão OPC e a invasão do Windows NT 4.0 nos sistemas SCADA, a HF já era líder de mercado em integração mecatrônica de alta precisão. Vince tornou-se multimilionário antes dos 30 anos, mas mais importante que o dinheiro foi o acesso irrestrito a tecnologias industriais de ponta e fornecedores militares que formariam a espinha dorsal do seu arsenal futuro.
    <br clear="all">
 
 3. **O Incidente (1996)**
@@ -176,6 +176,59 @@
 
 # Arsenal Balístico
 
+### **Benelli M3 Custom**
+
+<img src="media/Gemini_Generated_Image_jpg5r7jpg5r7jpg5.png" height="250">
+
+   *Escopeta Customizada do Vince. Utilizada tanto para competições quanto defesa. Capacidade de 10+1+1 munições (Ghost Load).*
+   1. **Seletor Híbrido:** Permite alternar entre Semi-Auto e Pump-Action para munições de cargas diferentes.
+   2. **Munições:**
+      1. **00 Buckshot:** Utiliza dano físico básico, pode ser combinado com choker de spread.
+      2. **Slug:** Utiliza dano físico básico, é um balote sólido de chumbo.
+      3. **Sabot Slug:** Um balote de Tungstênio numa cápsula de resina. Feito para penetrar blindagem. Ignora armadura (Regra do V20/HH2).
+         1. Utiliza carga pesada de propelentes, pode danificar a arma se utilizado em modo semi-automatico.
+      4. **Dragon's Breath:** Munição de magnésio que causa efeito incendiário, tem dano reduzido para 4, porém Agravado. Pode utilizar chokers.
+   3. **Regra de Dano Base:** 8 Dados.
+
+<div style="page-break-after: always;"></div>
+
+###  **STI Edge 2011 Custom**
+
+<img src="media/STI_EDGE_C3.png" height="180">
+<img src="media/STI_EDGE_C3S.png" height="180">
+
+   *Pistola 1911 calibrada para munição 9mm Major (Hot Load), customizada para competições de tiro na categoria Open. Capaz de atirar em alta velocidade sem perder a precisão. Possui carregador de 20 munições. Arma de porte diário do Vince.*
+   1. **Customização Técnica:**
+      1. **Compensador**: Remove penalidade em sequências rápidas de disparos.
+      2. **Supressor**: Diminui drasticamente o som do disparo.
+   2. **Regra:** 
+      1. **Dano:** Letal, 5 dados (devido à munição 9mm Major de alto fator de potência).
+      2. **Bônus:** 
+         1. *Race Gun:* +1 dado em todas as ações com a arma.
+
+<div style="page-break-after: always;"></div>
+
+### **STI 2011 "The Hammer" (.460 Rowland)**
+
+<img src="media/STI_460_C1.png" height="250">
+
+   *Originalmente uma pistola STI Edge 2011 em .45 ACP, essa arma foi convertida para o calibre .460 Rowland. Entrega a balística de um .44 Magnum em uma plataforma semiautomática de alta capacidade.*
+
+   1. **Customização Técnica:**
+      1. **Compensador Obrigatório:** O .460 Rowland exige um compensador roscado para retardar o destrancamento do ferrolho (delay unlocking) e mitigar o recuo violento (40.000 PSI).
+      2. **Mola Recuperadora (Recoil Spring):** Substituída por uma Wolff de 24lb para garantir a ciclagem correta sem destruir o frame.
+      3. **Cano Bull Barrel:** Revestido em TiN (Nitreto de Titânio) para resistência térmica e redução de atrito.
+   2. **Munição:** .460 Rowland "Super Performance".
+      1. **Munição de Prata/Magnésio:**
+         1. **Núcleo de Magnésio:** Inimigos sem Fortitude recebem +1 de dano Agravado (Queimadura interna).
+         2. **Revestimento de Prata:** O dano é Agravado contra Garou e não pode ser absorvido.
+   3. **Regra:**
+      1. **Dano:** 6 dados (Letal/Agravado dependendo da munição).
+      2. **Capacidade:** 14+1 munições.
+      3. **Bônus:** *Race Gun:* +1 dado em testes de mira e precisão.
+
+<div style="page-break-after: always;"></div>
+
 ### **FCB-308 "Chimera" (Ferrara Custom Bullpup)**
 
 <img src="media/Gemini_Generated_Image_6rsehq6rsehq6rse.png" height="200"><img src="media/Gemini_Generated_Image_wcmhxiwcmhxiwcmh.png" height="200">
@@ -193,55 +246,6 @@
       2. **Bônus:** 
          1. *Mira Holográfica* +1 dado em testes de mira e precisão.
          2. *Munição API*
-
-<div style="page-break-after: always;"></div>
-
-### **AMT Automag III Custom**
-
-<img src="media/Gemini_Generated_Image_309fcs309fcs309f.png" height="150">
-<img src="media/Gemini_Generated_Image_tb6elrtb6elrtb6e.png" height="150">
-
-   *Pistola .30 Carbine Customizada pelo Vince. É um canhão de mão para caçar monstros. Possui carregador estendido de 12 munições.*
-   1. **Customização:** Compensador de recuo superdimensionado para melhorar controle ou supressor para abafar sons de disparo.
-      1. **Supressor:** Aumenta a Dificuldade de Percepção dos inimigos para ouvir o tiro.
-      2. **Compensador:** -1 Dificuldade em disparos sequenciais (tiro rápido).
-   2. **Munição:** .30 Carbine "Hot Load" (Pólvora de queima rápida + Ponta Oca com Óxido de Prata ou Magnésio).
-      1. **Munição de Magnésio:**
-         1. Inimigos sem Fortitude recebem +1 de dano Agravado
-         2. **Contra Vampiros:** Rötschreck: O alvo atingido precisa fazer teste de coragem (Diff 5)
-      2. **Munição de Prata Contra Lobisomens:** O dano é Agravado e não pode ser absorvido.
-   3. **Regra:**
-      1. **Dano:** 6 dados.
-      2. **Bônus:** *Red Dot* +1 dado em testes de mira e precisão.
-
-<div style="page-break-after: always;"></div>
-
-###  **STI Edge 2011 Custom**
-
-<img src="media/Gemini_Generated_Image_gsdur1gsdur1gsdu.png" height="250">
-
-   *Pistola 1911 calibrada para munição 9mm Major (Hot Load), customizada para competições de tiro na categoria Open. Capaz de atirar em alta velocidade sem perder a precisão. Possui carregador de 20 munições. Arma de porte diário do Vince.*
-   1. **Regra:** 
-      1. **Dano:** Letal, 5 dados (devido à munição 9mm Major de alto fator de potência).
-      2. **Bônus:** 
-         1. *Red Dot:* +1 dado em testes de mira e precisão.
-         2. *Race Gun:* -2 de dificuldade em todas as ações com a arma
-
-<div style="page-break-after: always;"></div>
-
-### **Benelli M3 Custom**
-
-<img src="media/Gemini_Generated_Image_jpg5r7jpg5r7jpg5.png" height="250">
-
-   *Escopeta Customizada do Vince. Utilizada tanto para competições quanto defesa. Capacidade de 10+1+1 munições (Ghost Load).*
-   1. **Seletor Híbrido:** Permite alternar entre Semi-Auto e Pump-Action para munições de cargas diferentes.
-   2. **Munições:**
-      1. **00 Buckshot:** Utiliza dano físico básico, pode ser combinado com choker de spread.
-      2. **Slug:** Utiliza dano físico básico, é um balote sólido de chumbo.
-      3. **Sabot Slug:** Um balote de Tungstênio numa cápsula de resina. Feito para penetrar blindagem. Ignora armadura (Regra do V20/HH2).
-         1. Utiliza carga pesada de propelentes, pode danificar a arma se utilizado em modo semi-automatico.
-      4. **Dragon's Breath:** Munição de magnésio que causa efeito incendiário, tem dano reduzido para 4, porém Agravado. Pode utilizar chokers.
-   3. **Regra de Dano Base:** 8 Dados.
 
 <div style="page-break-after: always;"></div>
 
@@ -272,7 +276,7 @@
          2. **Pó de Alumínio:** Serve para aumentar a temperatura da reação através das reações de alumínio com óxidos.
          3. **Magnésio:** Metal que quando entra em combustão emite luz branca muito forte e uma grande quantidade de raios UV-A e UV-B.
          4. **ETN:** Aditivo oxidante.
-      3. ***Nota:*** *Olhar diretamente para a detonação desse explosivo sem proteção (como máscaras/óculos de solda) pode causar danos permanentes a visão.*
+      3. ***Nota:*** *Olhar diretamente para a detonação desse explosivo sem proteção (como máscaras/óculos de solda) pode causar danos permanentes à visão.*
       4. **Regra:**
          - **Dano:** 4 Agravado (fogo) em raio de 3m do epicentro
          - **Flash:** Todos em 5m testam Destreza + Prontidão (dif 8) ou ficam cegos por 1d3 turnos
@@ -348,7 +352,7 @@
 
    <img src="media/Gemini_Generated_Image_u3v7quu3v7quu3v7.png" height="300">
 
-   *Um design de armadura medieval reprojetado com materiais modernos. É modular para reparos fáceis, não afeta mobilidade e possui sistema de absorção de traumas. Porém é pesado pra caralho e cansativo de usar.*
+   *Um design de armadura medieval reprojetado com materiais modernos. É modular para reparos fáceis, não afeta mobilidade e possui sistema de absorção de traumas. Porém, é pesado pra caralho e cansativo de usar.*
 
    - **Proteção:** +4 dados de absorção.
    - **Cobertura:** Torso e braços apenas
@@ -387,13 +391,14 @@
      - Quad-Load
      - Double Tap
   - **Regra:**
-     - Ao declarar que está fazendo uma das drills listadas, sequências de disparos contam como ação única, porém o dano máximo de cada disparo será o dano base, não podendo receber bônus de sucessos.
-     - Como atirador profissional no IPSC, Vince consegue atirar e recarregar armas enquanto se movimenta com penalidades reduzidas (0 andando, +1 correndo)
-     - Não se aplica a combate corpo-a-corpo, outras habilidades ou ações não listadas
+     - Ao declarar que está fazendo uma das drills listadas (ou variações delas), sequências de disparos contam como ação única, porém o dano máximo de cada disparo será o dano base, não podendo receber bônus de sucessos.
+     - Como atirador profissional no IPSC, Vince consegue atirar e recarregar armas enquanto se movimenta com penalidades reduzidas (0 andando, +1 correndo).
+     - Não se aplica a combate corpo-a-corpo, outras habilidades ou ações não listadas.
 
 ### Supressão e "Munição Infinita":
    *A combinação de carregadores de alta capacidade (20+1 na STI, 12 na Benelli) e recargas instantâneas cria um efeito psicológico devastador.*
    - **Tática de Terror:** Inimigos acostumados com armas convencionais podem assumir que Vince tem munição ilimitada ou falhar em prever seus momentos de vulnerabilidade (recarga), forçando-os a permanecerem na defensiva/cobertura por mais tempo do que o necessário. 
+   - **A Lei de Newton (Kinetic Stopping Power):** Mesmo monstros sobrenaturais obedecem à física. Se não sangra, ainda pode ser derrubado. Contra alvos blindados, o objetivo muda de "Penetração" para "Saturação". Descarregar uma bateria de 12ga não é para matar, é para converter o alvo em uma boneca de pano e comprar tempo (Stun/Knockdown). 
 
 <div style="page-break-after: always;"></div>
 
@@ -459,7 +464,7 @@
 ### 📄 ENTRY #023: "The Alpha Intruder"
 - **Local:** Varanda da Casa Principal. 
 - **Ameaça:** Entidade de Nível Superior (Vampiro com modificações corporais visíveis - Provável Tzimisce ou Gangrel). 
-- **Alerta:** Comoção dos gansos seguido de silencio. Alerta assumido por sensores de movimento sísmico.
+- **Alerta:** Comoção dos gansos seguido de silêncio. Alerta assumido por sensores de movimento sísmico.
 - **Relatório:** Alvo rompeu o portão externo como se fosse papelão. Blindagem dérmica visível (pele cinza/óssea).
   1. **Engajamento:** O alvo resistiu a dois disparos de espingarda calibre 12 no peito sem recuar.
   2. **Solução:** Uso da Chimera (Revisada) com Munição Dragonfly v2.

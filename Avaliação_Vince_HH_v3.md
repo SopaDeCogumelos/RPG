@@ -685,7 +685,7 @@ Vince ocupa os seguintes papéis potenciais:
 | Arma | Dano | Função | Balanceamento |
 |------|------|--------|---------------|
 | **FCB-308 Chimera** | 8 + Agravado | Anti-vampiro primário | ⚠️ Poderosa, mas com falhas mecânicas |
-| **AMT Automag III** | 6 | Backup pesado / anti-lican | ✅ Balanceado |
+| **STI 2011 .460** | 6 | Heavy Hitter / Anti-Lican | ✅ Poderoso (Alto Recuo) |
 | **STI Edge 2011** | 4 (-2 diff) | Porte diário | ✅ Balanceado (Race Gun típica) |
 | **Benelli M3** | 8 | Versatilidade | ✅ Balanceado (escopeta padrão) |
 
@@ -709,7 +709,7 @@ Vince ocupa os seguintes papéis potenciais:
 |------|--------|-----------|
 | **API (Armor-Piercing Incendiary)** | +1 Agravado, Rötschreck | ✅ Difícil de fabricar, justificada por Science 4 + Repair 5 |
 | **Dragon's Breath** | 4 Agravado (fogo) | ✅ Dano reduzido compensa o Agravado |
-| **Hot Load .30 Carbine** | +1 Agravado ou Prata | ✅ Munição especializada por tipo de alvo |
+| **.460 Rowland (Prata/Mg)** | +1 Agravado (Mg) ou Prata Agravado | ✅ Munição especializada por tipo de alvo |
 | **Sabot Slug** | Ignora armadura, risco à arma | ✅ Trade-off claro |
 
 ## Equipamento Tático
@@ -772,11 +772,11 @@ A Estrela da Manhã não é uma arma "segura" para o usuário. O flash pode cega
 | Ação | Pool | Dificuldade Base | Modificadores |
 |------|------|------------------|---------------|
 | **Tiro (Chimera)** | Dex 4 + Firearms 4 = 8 | 6 | +1 (mira holográfica) |
-| **Tiro (Automag)** | Dex 4 + Firearms 4 = 8 | 6 | +1 (red dot) |
-| **Tiro (STI Edge)** | Dex 4 + Firearms 4 = 8 | 4 | +1 (red dot), -2 (race gun) |
+| **Tiro (STI .460)** | Dex 4 + Firearms 4 = 8 | 6 | +1 (race gun) |
+| **Tiro (STI Edge)** | Dex 4 + Firearms 4 = 8 | 6 | +1 (race gun) |
 | **Tiro (Benelli)** | Dex 4 + Firearms 4 = 8 | 6 | — |
 
-**Análise:** 8-9 dados para ataques à distância é **excelente** para um mortal. Com a STI Edge (dificuldade efetiva 4), Vince tem altíssima chance de acertar.
+**Análise:** 8-9 dados para ataques à distância é **excelente** para um mortal. Com o bônus de *Race Gun*, Vince mantém consistência mesmo em situações difíceis.
 
 ## Pools de Defesa
 
@@ -962,6 +962,23 @@ A Estrela da Manhã não é uma arma "segura" para o usuário. O flash pode cega
 | Magos | Baixa |
 
 **Comentário:** Vince é muito eficaz contra a faixa de ameaças típica de HH2 (vampiros jovens, carniçais), mas tem limitações claras contra ameaças mais poderosas.
+
+## Diretrizes de Controle para o Narrador (Soft Nerfs)
+
+Para manter o personagem desafiador sem alterar a ficha, recomenda-se que o Narrador explore estas fraquezas inerentes:
+
+1.  **A Armadilha da Blindagem (Dano Flat):**
+    *   O mérito *IPSC Grand Master* permite muitos ataques, mas **impede somar sucessos ao dano**.
+    *   **O Nerf:** Contra vampiros com Fortitude alta ou Lobisomens, esses ataques "rápidos" causam 0 de dano efetivo, pois a absorção anula o dano base da arma. Vince será forçado a atirar menos e mirar mais se quiser machucar "Bosses".
+    *   **O Contraponto (A Lei de Newton):** Embora o alvo possa não sofrer *Ferimentos* (Health Levels), a energia cinética acumulada de múltiplos disparos de alto calibre (ex: 12ga ou .308) deve ser considerada para testes de **Knockdown**. Um Ancião pode ser invulnerável a balas, mas ainda pesa 80kg. Se ele tomar 3 tiros de 12ga no peito, ele *vai* cair ou recuar, perdendo a ação. Isso transforma Vince em um controlador de campo (Crowd Control), não apenas um causador de dano.
+
+2.  **Confiabilidade de Equipamento (Jamming):**
+    *   Armas de competição ("Race Guns") são feitas com tolerâncias mínimas. Elas odeiam sujeira.
+    *   **O Nerf:** Em ambientes de esgoto, chuva ou lama, aumente a margem de falha crítica (Botch em 1 ou 2). Se a arma travar, ele precisa gastar ações usando *Repair* para destvar.
+
+3.  **Recursos: Liquidez vs Ativos:**
+    *   Recursos 5 representam valor de mercado da empresa e imóveis, não dinheiro na carteira.
+    *   **O Nerf:** Limite o acesso a dinheiro vivo (untraceable cash). Gastos grandes no cartão corporativo deixam rastro digital para a Inquisição ou Rivais rastrearem.
 
 ---
 

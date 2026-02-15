@@ -411,7 +411,7 @@ O arsenal de Vince segue uma lógica clara: **contramedidas específicas para va
 | Arma | Propósito | Coerência |
 |------|-----------|-----------|
 | FCB-308 Chimera | Engajamento médio/longo, dano massivo | ✅ |
-| AMT Automag III | Secundária pesada, versatilidade | ✅ |
+| STI 2011 .460 | Secundária pesada, poder de parada | ✅ |
 | STI Edge 2011 | Porte diário, velocidade | ✅ |
 | Benelli M3 | Versatilidade, munições especiais | ✅ |
 
@@ -427,18 +427,18 @@ O arsenal de Vince segue uma lógica clara: **contramedidas específicas para va
 - A mecânica de falha impede uso irresponsável
 - O alcance e tamanho limitam uso urbano
 
-#### AMT Automag III
-- **Dano:** 6 dados
-- **Munições:** Magnésio (agravado + Rötschreck) ou Prata (vs Garou)
-- **Acessórios:** Compensador OU Supressor
+#### STI 2011 .460 "The Hammer"
+- **Dano:** 6 dados (Letal/Agravado)
+- **Munições:** .460 Rowland (Mg/Prata)
+- **Recuo:** Exige Força 4+ ou Potência para tiro rápido
 
 **Balanceamento:** ✅ ADEQUADO
-- Pistola de backup pesada
-- Versatilidade justifica o custo de Resources
+- Poder de parada massivo com custo de manuseio
+- Substitui a Automag como backup pesado
 
 #### STI Edge 2011
-- **Dano:** 4 dados (letais)
-- **Bônus:** Red Dot (+1 dado), Race Gun (-1 dificuldade)
+- **Dano:** 5 dados (letais)
+- **Bônus:** Race Gun (+1 dado)
 
 **Balanceamento:** ✅ ADEQUADO
 - Arma de competição, não de caça
@@ -797,8 +797,8 @@ SALDO FINAL:                         0 ✅
 
 | Situação | Modificador |
 |----------|-------------|
-| Red Dot/Mira | +1 dado |
-| Race Gun (STI) | -1 dificuldade |
+| Red Dot/Mira | +1 dado (Chimera) |
+| Race Gun (STI) | +1 dado |
 | IPSC Drill | -2 penalidade de múltiplas ações |
 | Brigandina | +4 soak, -1 Dex, -1 Sta, +1 dif Stealth |
 | Movimento (andando) | 0 (com IPSC) |
@@ -809,8 +809,8 @@ SALDO FINAL:                         0 ✅
 | Arma | Dano | Especial |
 |------|------|----------|
 | Chimera | 8 | +1 Agravado (sem Fortitude), Rötschreck |
-| Automag III | 6 | Magnésio/Prata disponível |
-| STI Edge | 4 | Race Gun bonus |
+| STI 2011 .460 | 6 | Magnésio/Prata disponível |
+| STI Edge | 5 | Race Gun bonus |
 | Benelli M3 | 8 | Múltiplas munições |
 | Estrela da Manhã | 4 Agravado | Flash, Rötschreck dif 9 |
 
