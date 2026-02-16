@@ -77,6 +77,8 @@
 
    A visão de mundo de Vince foi fraturada em 1996, durante uma consultoria técnica em uma metalúrgica cliente da HF. Chamado para investigar a falha catastrófica de uma prensa hidráulica de 50 toneladas, fizeram de **tudo** (incluindo controle mental) para convencer Vince de que a causa do acidente foi "fadiga de material", mas ele rejeitou o laudo oficial.
    Sua análise forense e o acesso às gravações de segurança revelaram o impossível: um intruso humanoide parando o maquinário colossal com as próprias mãos para extrair um objeto, antes de desaparecer em uma velocidade que desafiava a física. Aquilo não era uma falha mecânica; era uma violação das leis naturais.
+
+   Logo após esse incidente, Vince fundou a HFT Defense Solutions, uma subsidiaria da HF Tech especializada no setor bélico e defesa.
    <br clear="all">
 
 4. **A Escalada e o Ataque (Início de 1997)**
@@ -121,33 +123,34 @@
 1. Attributes
    1. Physical
       1. Strength: 2
-      2. Dexterity: 4 (-5 PB)
+      2. Dexterity: 4 (-5 PB) - Fast Reflexes
       3. Stamina: 2
    2. Social
       1. Charisma: 1
       2. Manipulation: 3
       3. Appearance: 2
    3. Mental
-      1. Perception: 3 (-5 PB)
-      2. Intelligence: 5 (-5 PB) 
+      1. Perception: 3 
+      2. Intelligence: 5 (-10 PB) - Analytical Thinking
       3. Wits: 3
 2. Abilities
    1. Talents:
       1. Alertness: 2
       2. Athletics: 2
-      3. Dodge: 2 (-2 PB)
+      3. Dodge: 1
    2. Skills:
       1. Drive: 2
-      2. Firearms: 4
-      3. Repair/Engineering: 5 (-2 PB)
+      2. Firearms: 4 - IPSC
+      3. Repair/Engineering: 5 (-2 PB) - Gunsmith
       4. Security: 1
       5. Stealth: 2 (-2 PB)
-      6. Survival: 1
+      6. Melee: 1
    3. Knowledges:
       1. Computer: 3
       2. Investigation: 2 (-2 PB)
       3. Medicine: 1
-      4. Science: 4
+      4. Occult: 1
+      5. Science: 3
 3. Advantages:
    1. Background
       1. Resources: 5
@@ -161,14 +164,12 @@
       6. Faith: 0
    3. Merits:
       1. Iron Will (Lore: Vince superou lavagem cerebral de um vampiro) (-3 PB)
-      2. Concentration (Vince é capaz de entrar em hiperfoco) (-1 PB)
-      3. IPSC Grand Master (-2 PB)
+      2. IPSC Grand Master (-2 PB)
    4. Flaws:
       1. Impatient with People (+1 PB)
-      2. Dark Secret (Vince consegue comprar matéria-prima de forma legal e sem suspeita, mas não tem licença para fabricar explosivos na escala que tem feito) (+2 PB)
-      3. Enemy (Vince está sendo caçado por vampiros pois "Sabe Demais") (+3 PB)
-      4. Curiosity (+2 PB)
-      5. Obsession / Compulsion: Research or Engineering (Ele não consegue deixar um problema técnico/sobrenatural sem resolver) (+2 PB)
+      2. Enemy (Vince está sendo caçado por vampiros pois "Sabe Demais") (+2 PB)
+      3. Curiosity (+2 PB)
+      4. Obsession / Compulsion: Research or Engineering (Ele não consegue deixar um problema técnico/sobrenatural sem resolver) (+2 PB)
 
 <div style="page-break-after: always;"></div>
 
@@ -183,11 +184,14 @@
    *Escopeta Customizada do Vince. Utilizada tanto para competições quanto defesa. Capacidade de 10+1+1 munições (Ghost Load).*
    1. **Seletor Híbrido:** Permite alternar entre Semi-Auto e Pump-Action para munições de cargas diferentes.
    2. **Munições:**
-      1. **00 Buckshot:** Utiliza dano físico básico, pode ser combinado com choker de spread.
+      1. **00 Buckshot:** Utiliza dano físico básico, pode ser combinado com choke de spread.
       2. **Slug:** Utiliza dano físico básico, é um balote sólido de chumbo.
       3. **Sabot Slug:** Um balote de Tungstênio numa cápsula de resina. Feito para penetrar blindagem. Ignora armadura (Regra do V20/HH2).
-         1. Utiliza carga pesada de propelentes, pode danificar a arma se utilizado em modo semi-automatico.
-      4. **Dragon's Breath:** Munição de magnésio que causa efeito incendiário, tem dano reduzido para 4, porém Agravado. Pode utilizar chokers.
+         1. Utiliza carga pesada de propelentes, pode danificar a arma se utilizado em modo semiautomático.
+      4. **Sticky Paraklese Dragon Buck:** Híbrido de composto incendiário com bagos de aço com resina termofixa. Corrige a falta de massa cinética da Dragon's Breath comum. Caso penetre: 
+         1. Dano 6 (Letal)
+         2. Caso haja penetração de dano letal, +1 (Por 2 turnos). 
+         3. Força teste de Rötschreck (Dif 6, 8 no turno seguinte caso haja penetração).
    3. **Regra de Dano Base:** 8 Dados.
 
 <div style="page-break-after: always;"></div>
@@ -220,7 +224,7 @@
       3. **Cano Bull Barrel:** Revestido em TiN (Nitreto de Titânio) para resistência térmica e redução de atrito.
    2. **Munição:** .460 Rowland "Super Performance".
       1. **Munição de Prata/Magnésio:**
-         1. **Núcleo de Magnésio:** Inimigos sem Fortitude recebem +1 de dano Agravado (Queimadura interna).
+         1. **Núcleo de Magnésio:** Se inimigos falharem em absorver todo dano letal, 1 ponto desse dano é convertido em Agravado (Queimadura interna).
          2. **Revestimento de Prata:** O dano é Agravado contra Garou e não pode ser absorvido.
    3. **Regra:**
       1. **Dano:** 6 dados (Letal/Agravado dependendo da munição).
@@ -241,7 +245,7 @@
       2. **Falha Crítica (1 em tudo):** Sistema de gás é danificado inutilizando a arma.
    4. **Regra:** 
       1. **Dano:** O dano base é 8 dados.
-         1. Inimigos sem Fortitude recebem +1 de dano Agravado
+         1. Se inimigos falharem em absorver todo dano letal, 1 ponto desse dano é convertido em Agravado (Queimadura interna).
          2. Rötschreck: O alvo atingido precisa fazer teste de coragem (Diff 5)
       2. **Bônus:** 
          1. *Mira Holográfica* +1 dado em testes de mira e precisão.
@@ -316,7 +320,7 @@
    *A recarga no V20 geralmente consome um turno ou exige dividir a parada de dados.*
 
    **Regra Especial: "Lightning Reload"**
-   1. **Efeito:** Recargas consomem apenas uma ação no turno e não adicionam penalidade de ação multipla. SOMENTE SE APLICA A MUNIÇÕES NESSES PORTA-CARREGADORES!
+   1. **Efeito:** Recargas consomem apenas uma ação no turno e não adicionam penalidade de ação múltipla. SOMENTE SE APLICA A MUNIÇÕES NESSES PORTA-CARREGADORES!
    2. **Requisito:** Vince precisa ter munição nesses porta-carregadores específicos. Se ele tirar do bolso da calça ou outro porta-carregadores, é a regra normal.
    3. **Na Narrativa:** "Enquanto a mão direita ainda está disparando o último tiro, a esquerda já está com um novo carregador cheio. O ciclo não para."
    4. **Penalidade:** Este porta-carregadores é de baixa retenção. Se Vince sofrer um Knockdown ou tentar fazer acrobacias, ele deve testar Destreza + Esportes (Diff 5). Se falhar, as munições caem no chão.
@@ -354,13 +358,13 @@
 
    *Um design de armadura medieval reprojetado com materiais modernos. É modular para reparos fáceis, não afeta mobilidade e possui sistema de absorção de traumas. Porém, é pesado pra caralho e cansativo de usar.*
 
-   - **Proteção:** +4 dados de absorção.
+   - **Proteção:** +6 dados de absorção, coverte todo dano recebi em Contundente.
    - **Cobertura:** Torso e braços apenas
-   - **Penalidades:** -1 Dexterity, +1 Dificuldade em Stealth
+   - **Penalidades:** -1 Athletics
 
 ### **HF Acoustics Earpro: V Edition**
    
-   *Abafador eletrônico da linha de EPIs da HF Tech. Esse modelo em especifico foi personalizado pelo Vince.*
+   *Abafador eletrônico da linha de EPIs da HF Tech. Esse modelo em específico foi personalizado pelo Vince.*
 
   1. **Aparência:** Diferente dos abafadores táticos verdes/camuflados do exército, este é Amarelo Segurança ou Laranja Internacional, mas o Vince pintou de preto fosco com spray. Tem o logo da HF em relevo. Vantagem Mecânica:
   2. **Regra:**
@@ -371,7 +375,7 @@
      1. **Original (Industrial):** O algoritmo é treinado para ignorar ruídos constantes e repetitivos (motores, serras, esteiras).
      2. **Modificado (Vince):** O algoritmo foi reajustado para Impulso Súbito.
         1. Ele aumentou a taxa de amostragem (Sampling Rate) dos microfones.
-        2. O fone agora identifica o pico de pressão de um disparo em microsegundos e inverte a fase da onda para cancelar o som (Cancelamento Ativo de Ruído primitivo, mas brutal).
+        2. O fone agora identifica o pico de pressão de um disparo em microssegundos e inverte a fase da onda para cancelar o som (Cancelamento Ativo de Ruído primitivo, mas brutal).
         3. O Pulo do Gato: Ele adicionou Ganho nas frequências agudas e baixas (passos em folhas secas, respiração, ferrolho metálico batendo).
 
 <div style="page-break-after: always;"></div>
@@ -382,18 +386,25 @@
 
 ### IPSC Grand Master (Homebrew Merit -2PB):
    - Vince possui uma excelente memória muscular graças ao treino extensivo de:
-     - El Presidente Drill
-     - F.A.S.T. Drill
-     - The Bill Drill
-     - Mozambique Drill
-     - V-Drill
-     - 1-Reload-1
-     - Quad-Load
-     - Double Tap
+     - El Presidente Drill (4s)
+     - F.A.S.T. Drill (3s)
+     - The Bill Drill (1.5s)
+     - Mozambique Drill (1s)
+     - V-Drill (Treino de movimento)
+     - 1-Reload-1 (1.2s)
+     - Quad-Load (1.2s)
+     - Double Tap (Utiliza Split time de 0.15s)
+     - Quick Draw (0.7s)
+     - Mag Dump (Utiliza Split time de 0.15s)
   - **Regra:**
-     - Ao declarar que está fazendo uma das drills listadas (ou variações delas), sequências de disparos contam como ação única, porém o dano máximo de cada disparo será o dano base, não podendo receber bônus de sucessos.
+     - Ao declarar um Drill (ex: Mozambique, Bill Drill), Vince não sofre as penalidades padrão de dividir a parada de dados (Múltiplas Ações) do V20. O Drill conta como uma única ação de ataque, representando a fluidez da sua memória muscular.
+     - Em vez de calcular o dano bala por bala (o que quebra o sistema), o volume de fogo do Drill se traduz em precisão e letalidade concentrada.
+       - *Double Tap / Mozambique (Rajada Curta):* Concede +2 dados na rolagem de Ataque. (Ignora a penalidade de +1 Dificuldade padrão do V20 para rajadas.
+       - *Bill Drill / Mag Dump (Fogo Supressivo/Automático):* Vince despeja munição tão rápido que emula uma arma automática. Concede +10 dados na rolagem de Ataque, mas a Dificuldade do disparo aumenta em +2 devido ao recuo extremo de atirar em split times de 0.15s. (Consome o equivalente a 10 munições).
+       - Para utilizar múltiplos drills no mesmo turno, o jogador deve conseguir encaixá-los dentro da duração de 3s do turno.
      - Como atirador profissional no IPSC, Vince consegue atirar e recarregar armas enquanto se movimenta com penalidades reduzidas (0 andando, +1 correndo).
-     - Não se aplica a combate corpo-a-corpo, outras habilidades ou ações não listadas.
+     - *Gun-Fu (CAR/CQB):* Vince pode utilizar pistolas e armas curtas em combate corpo-a-corpo. Ele ignora a penalidade de +2 Dificuldade padrão do sistema para atirar enquanto engajado em combate físico, usando o fuzil ou a pistola para reter o alvo e criar espaço.
+     - Não se aplica a combate corpo-a-corpo convencional, outras habilidades ou ações não listadas.
 
 ### Supressão e "Munição Infinita":
    *A combinação de carregadores de alta capacidade (20+1 na STI, 12 na Benelli) e recargas instantâneas cria um efeito psicológico devastador.*
