@@ -5,8 +5,8 @@
 **Sistema:** Vampire: The Masquerade V20 — Hunters Hunted II  
 **Tipo:** Mortal (Caçador Mundano — Sem Fé Verdadeira / Sem Numina)  
 **Conceito:** Glass Cannon / Especialista Técnico  
-**Data do Relatório:** 15 de Fevereiro de 2026  
-**Fonte Canônica:** `Vince.md` (ficha atualizada)
+**Data do Relatório:** 15 de Fevereiro de 2026 (Atualizado)  
+**Fonte Canônica:** `Vince.md` (ficha atualizada pós-revisão)
 
 ---
 
@@ -73,7 +73,7 @@
     - [13.2 Prioridade ALTA (Próximas Sessões)](#132-prioridade-alta-próximas-sessões)
     - [13.3 Médio Prazo (Arco Narrativo)](#133-médio-prazo-arco-narrativo)
     - [13.4 Correções de Build (Negociação com Narrador)](#134-correções-de-build-negociação-com-narrador)
-  - [14. ERRATA — Divergências com Relatórios Anteriores](#14-errata--divergências-com-relatórios-anteriores)
+  - [14. REGISTRO DE MUDANÇAS (Changelog v4.0 → v4.1)](#14-registro-de-mudanças-changelog-v40--v41)
   - [15. VEREDITO FINAL](#15-veredito-final)
 
 <div style="page-break-after: always;"></div>
@@ -133,8 +133,8 @@ Vincent "Vince" Ferrara é um mortal mundano construído como um **Glass Cannon 
 |---------------------------------------|-----------|------|----------|---------------|
 | Destreza 3 → 4                        | 5/dot     | 1    | **5**    | (-5 PB)       |
 | Inteligência 3 → 5                    | 5/dot     | 2    | **10**   | (-10 PB)      |
-| Reparos/Engenharia 4 → 5             | 2/dot     | 1    | **2**    | (-2 PB)       |
-| Furtividade (Stealth) 1 → 2          | 2/dot     | 1    | **2**    | (-2 PB)       |
+| Reparos/Engenharia 3 → 4             | 2/dot     | 1    | **2**    | (-2 PB)       |
+| Firearms 3 → 4                        | 2/dot     | 1    | **2**    | (-2 PB)       |
 | Investigação 1 → 2                    | 2/dot     | 1    | **2**    | (-2 PB)       |
 | Contatos 0 → 1                        | 1/dot     | 1    | **1**    | (-1 PB)       |
 | Força de Vontade 4 → 5               | 1/dot     | 1    | **1**    | (-1 PB)       |
@@ -144,9 +144,12 @@ Vincent "Vince" Ferrara é um mortal mundano construído como um **Glass Cannon 
 
 > ✅ **28 PB gastos = 28 PB disponíveis. Orçamento fecha perfeitamente.**
 >
-> 📝 **Inteligência:** A ficha anota "-10 PB", correspondendo a 2 dots comprados (3→5). Percepção 3 é inteiramente base (Mental Primária), sem custo PB.
+> 📝 **Correção Crítica v4.1:** A ficha foi ajustada para que **nenhuma habilidade exceda 3 na criação base**.
+> - **Firearms 4** agora é composto por Base 3 + 1 via PB (-2 PB).
+> - **Repair 4** (reduzido de 5) é composto por Base 3 + 1 via PB (-2 PB).
+> - **Stealth 2** (antigo custo de PB) foi absorvido na alocação base de habilidades.
 >
-> 📝 **Ausência de Concentration:** A ficha canônica (`Vince.md`) **não lista** o Mérito Concentration. Relatórios anteriores o incluíam — vide [Seção 13: Errata](#13-errata--divergências-com-relatórios-anteriores).
+> **Resultado:** O build agora está 100% em conformidade com a regra "Cap of 3" do HH2 (p. 35). A redução de Repair de 5 para 4 foi o sacrifício necessário para legalizar a ficha sem estourar o orçamento.
 
 ### 2.3 Verificação de Atributos (Base 7/5/3 → 6/4/3 acima de 1)
 
@@ -177,31 +180,22 @@ Após alocação base + PB:
 
 ### 2.4 Verificação de Habilidades
 
-A alocação base de habilidades (sem PB) da ficha:
+A alocação base de habilidades (sem PB) da ficha foi ajustada para respeitar o teto de 3:
 
-| Categoria         | Dots Base | Distribuição                                                           |
+| Categoria         | Dots Base | Distribuição (v4.1)                                                   |
 |-------------------|-----------|------------------------------------------------------------------------|
-| **Perícias**      | 13        | Drive(2) + Firearms(4) + Repair(4) + Security(1) + Stealth(1) + Melee(1) = 13 |
+| **Perícias**      | 13        | Drive(2) + Firearms(3) + Repair(3) + Security(1) + Stealth(2) + Melee(2) = 13 |
 | **Conhecimentos** | 9         | Computer(3) + Investigation(1) + Medicine(1) + Occult(1) + Science(3) = 9 |
 | **Talentos**      | 5         | Alertness(2) + Athletics(2) + Dodge(1) = 5                            |
 | **TOTAL**         | **27**    |                                                                        |
 
 > ✅ **Alocação 13/9/5 — Padrão RAW do HH2.**
 >
-> Conforme o Hunters Hunted II (p. 35), a alocação de habilidades para mortais é **13/9/5** (total: 27 dots base). O personagem utiliza exatamente esse template:
+> A distribuição agora encaixa perfeitamente nos pontos base, com **Firearms e Repair partindo de 3** (máximo permitido) e sendo elevados para 4 via Pontos de Bônus.
+> - **Stealth 2:** Agora coberto pelos pontos base (antes exigia PB).
+> - **Melee 2:** Elevado de 1 para 2 via pontos base.
 >
-> | Categoria           | Alocação RAW | Vince | Status |
-> |---------------------|-------------|-------|--------|
-> | Perícias (Primária)  | 13          | **13** | ✅ |
-> | Conhecimentos (Secundária) | 9    | **9**  | ✅ |
-> | Talentos (Terciária) | 5           | **5**  | ✅ |
->
-> O livro também estipula que **nenhuma Habilidade pode exceder 3 nesta fase** (antes de PB). Verificação:
-> - Firearms 4: ⚠️ **Excede o teto de 3.** Requer 1 dot via PB (2 PB) *ou* aprovação do Narrador para alocar 4 na criação base.
-> - Repair 4: ⚠️ **Excede o teto de 3.** Mesma situação.
-> - Todas as demais: ✅ ≤ 3.
->
-> 📝 **Nota:** Se a regra de teto 3 for aplicada estritamente, Firearms e Repair precisam ser ajustados para 3 na base e comprados de 3→4 via PB (2 PB cada = 4 PB adicionais). Isso afetaria o orçamento. Vide [Seção 13.4](#134-correções-de-build-negociação-com-narrador).
+> **Correção de Teto:** Não há mais violações da regra "No Ability higher than 3 at this stage".
 
 Após alocação base + PB:
 
@@ -211,18 +205,18 @@ Após alocação base + PB:
 | Athletics           | 2    | —   | **2**   |
 | **Dodge**           | **1**| —   | **1**   |
 | Drive               | 2    | —   | **2**   |
-| Firearms            | 4    | —   | **4**   |
-| Repair/Engineering  | 4    | +1  | **5**   |
+| **Firearms**        | 3    | +1  | **4**   |
+| **Repair/Engineering**| 3  | +1  | **4**   |
 | Security            | 1    | —   | **1**   |
-| Stealth             | 1    | +1  | **2**   |
-| Melee               | 1    | —   | **1**   |
+| Stealth             | 2    | —   | **2**   |
+| Melee               | 2    | —   | **2**   |
 | Computer            | 3    | —   | **3**   |
 | Investigation       | 1    | +1  | **2**   |
 | Medicine            | 1    | —   | **1**   |
 | Occult              | 1    | —   | **1**   |
 | Science             | 3    | —   | **3**   |
 
-> ⚠️ **Dodge 1:** A ficha canônica lista Dodge como **1**, sem custo de PB. Relatórios anteriores (v3) listavam Dodge 2 com 2 PB — a ficha atual não reflete essa compra. Isso reduz significativamente a pool de esquiva reativa (de 6 para **5 dados**). Vide [Seção 13: Errata](#13-errata--divergências-com-relatórios-anteriores).
+> ⚠️ **Repair/Engineering reduzido para 4:** A redução de 5 para 4 foi necessária para validar a ficha. A pool cai de 10 para **9 dados** (Int 5 + Repair 4). Ainda excepcional, mas não maximizada.
 
 ### 2.5 Verificação de Antecedentes (Base 5)
 
@@ -252,13 +246,12 @@ Virtudes partem de 1 cada em V20. Dots alocados acima de 1:
 |-----------------------------|--------|
 | Orçamento de PB             | ✅ 28/28 — Fecha perfeitamente |
 | Atributos (6/4/3)          | ✅ Válido |
-| Habilidades (13/9/5)        | ✅ Padrão RAW do HH2 (p. 35) |
+| Habilidades (13/9/5)        | ✅ Válido |
 | Antecedentes (5)            | ✅ Válido |
 | Virtudes (7)                | ✅ Válido |
-| Humanidade/Willpower       | ✅ Calculados corretamente |
-| Teto de Defeitos (7 PB)    | ✅ Dentro do limite RAW |
+| Cap de 3/habilidade base    | ✅ **Corrigido (v4.1)** |
 
-> **Resultado: APROVADO COM RESSALVA MENOR.** O build é internamente consistente, matematicamente correto e utiliza a alocação RAW de habilidades (13/9/5). A única ressalva é o **teto de 3 por habilidade na criação** (HH2 p. 35): Firearms 4 e Repair 4 na base excedem esse limite. Se aplicado estritamente, seria necessário realocá-los para 3 e comprar o 4º dot via PB (vide Seção 13.4).
+> **Resultado: APROVADO (Gold Standard).** O build v4.1 elimina todas as ressalvas anteriores. A redução de Repair para 4 e o ajuste de custos permitiram que a ficha respeitasse todas as regras de criação do Hunters Hunted II, incluindo o limite de 3 dots na fase inicial. É um exemplo de otimização legal.
 
 <div style="page-break-after: always;"></div>
 
@@ -324,7 +317,7 @@ Int 5 é o buffer que eleva *todas* as habilidades mentais ao nível funcional m
 | Occult 1            | ~2-3 dados     | **6 dados**    | +100% |
 | Science 3           | ~6 dados       | **8 dados**    | +33%  |
 | Computer 3          | ~6 dados       | **8 dados**    | +33%  |
-| Repair 5            | ~8 dados       | **10 dados**   | +25%  |
+| Repair 4            | ~7 dados       | **9 dados**    | +28%  |
 
 > Int 5 compensa dezenas de lacunas. É o investimento mais eficiente *em termos globais* de qualquer PB gasto na ficha.
 
@@ -347,11 +340,11 @@ Int 5 é o buffer que eleva *todas* as habilidades mentais ao nível funcional m
 | Habilidade          | Valor | Pool Total                 | Função no Build |
 |---------------------|-------|---------------------------|-----------------|
 | **Firearms 4**     | Excepcional | Dex(4)+Firearms(4) = **8** (+1 Race Gun = **9**) | Habilidade de combate central. Com bônus de equipamento, é uma pool letal. Especialização: IPSC. |
-| **Repair/Eng 5**   | Máximo Humano | Int(5)+Repair(5) = **10** | Fabricação de armas, munições, explosivos, gadgets. A *raison d'être* do personagem. Especialização: Gunsmith. |
-| **Drive 2**        | Funcional | Dex(4)+Drive(2) = **6** | Condução evasiva básica. Suficiente para fugas, não para perseguições de alta velocidade. |
-| **Security 1**     | Mínimo | Int(5)+Security(1) = **6** | Arrombamento e sistemas de segurança. Funcional graças à Int 5. |
-| **Stealth 2**      | Funcional | Dex(4)+Stealth(2) = **6** (5 com Brigandina) | Infiltração básica. Emboscadas preparadas, não espionagem ativa. |
-| **Melee 1**        | Mínimo | Dex(4)+Melee(1) = **5** | Defesa CQB com arma na mão. Pool baixa, mas combinada com **Gun-Fu (IPSC)** — Vince pode atirar em CQB sem a penalidade de +2 Diff — cria uma capacidade real. |
+| **Repair/Eng 4**   | Excelente | Int(5)+Repair(4) = **9**  | Fabricação de armas, munições, explosivos, gadgets. Reduzida de 5 para 4 para cumprir regras de criação, mas ainda estelar graças à Int. Especialização: Gunsmith. |
+| **Drive 2**        | Funcional | Dex(4)+Drive(2) = **6** | Condução evasiva básica. Suficiente para fugas. |
+| **Security 1**     | Mínimo | Int(5)+Security(1) = **6** | Arrombamento e sistemas de segurança. Funcional. |
+| **Stealth 2**      | Funcional | Dex(4)+Stealth(2) = **6** (5 com Brigandina) | Infiltração básica. Emboscadas preparadas. |
+| **Melee 2**        | Funcional | Dex(4)+Melee(2) = **6** | Defesa CQB com arma. Aumentada de 1 para 2. Garante pool de **parry mínima** (6 dados) e melhor uso do Gun-Fu. |
 
 ### 4.3 Conhecimentos (Secundária)
 
@@ -551,9 +544,9 @@ Em V20, *called shot* na cabeça: **+2 à dificuldade**, mas **+2 dados de dano*
 
 | Defesa Ativa        | Pool         | Notas |
 |---------------------|-------------|-------|
-| **Dodge (Esquiva)** | Dex(4)+Dodge(1) = **5 dados** | ⚠️ Fraco. Cada dodge adicional sofre -1 por ação múltipla → 4, 3, 2... |
-| **Melee (Parry)** | Dex(4)+Melee(1) = **5 dados** | Parry básico. Só funciona se armado. |
-| **Gun-Fu (CQB)** | Pool de Firearms = **9 dados**, sem penalidade de +2 Diff em melee | A **melhor** opção defensiva: atirar no agressor a queima-roupa. |
+| **Dodge (Esquiva)** | Dex(4)+Dodge(1) = **5 dados** | ⚠️ Fraco. Cada dodge adicional sofre -1 por ação múltipla. |
+| **Melee (Parry)** | Dex(4)+Melee(2) = **6 dados** | Melhoria v4.1. Defesa ativa mais confiável que Dodge em combate armado. |
+| **Gun-Fu (CQB)** | Pool de Firearms = **9 dados** | A melhor opção ofensiva-defensiva. |
 | **Soak passivo** | 4 dados (Lethal) | Apenas torso e braços. Cabeça e pernas descobertos. |
 
 **Capacidade de Absorção (Tanking):**
@@ -804,8 +797,8 @@ Com Occult 1 e experiência prévia (lore: lavagem cerebral superada), Vince tem
 
 | # | Vulnerabilidade | Descrição |
 |---|----------------|-----------|
-| 1 | **Brawl 0 — Desarmado e agarrado** | A lacuna mais perigosa. Se Vince for **desarmado** (Dominate: "largue a arma", grapple, detector de metais) e preso em melee, pool de grapple: **~2-4 dados** vs. ~6-10 do oponente. Melee 1 e Gun-Fu irrelevantes sem arma na mão. |
-| 2 | **Obfuscate — Cego ao invisível** | Sem Auspex, sem Faith, sem detecção sobrenatural. Vampiros invisíveis caminham até ele impunemente. Sensores e gansos ajudam NA FAZENDA; em ambiente urbano, completamente cego. |
+| 1 | **Brawl 0 — Desarmado e agarrado** | A lacuna mais perigosa. Se Vince for **desarmado** e preso em melee, pool de grapple é puro atributo (2-4 dados). Melee 2 ajuda se tiver *qualquer objeto* para usar como arma, mas mãos nuas = derrota. |
+| 2 | **Obfuscate — Cego ao invisível** | Sem Auspex, sem Faith, sem detecção sobrenatural. Vampiros invisíveis caminham até ele impunemente. |
 | 3 | **Faith 0 — Sem proteção mística** | Sem detecção, sem repulsão, sem dano via fé. Toda defesa é tecnológica — tecnologia tem limites contra Thaumaturgia, Necromancia e manifestações genuinamente sobrenaturais. |
 | 4 | **Dodge 1 — Defesa reativa frágil** | Pool de esquiva de **5 dados** é perigosamente baixa para um Glass Cannon. Qualquer turno em que Vince precise esquivar mais de uma vez, a pool cai para 4, 3, 2... Combinado com Sta 2 e 7 HLs, ser acertado = potencial fim de jogo. |
 
@@ -842,14 +835,14 @@ Com Occult 1 e experiência prévia (lore: lavagem cerebral superada), Vince tem
 | 2 | **Arsenal diversificado e sinérgico** | Paraklese para Rötschreck, API para Fortitude, Magnésio para Agravado, Prata para Garou, Green Gas para controle, Sabot para blindagem, Estrela da Manhã para "botão nuclear". Cada munição cobre uma lacuna diferente. |
 | 3 | **Economia de ações superior** | IPSC GM + Safariland = saque reflexivo + drills como ação única + recarga sem penalidade + mobilidade sem penalidade + Gun-Fu CQB. 2-3× mais ações efetivas por turno que qualquer mortal. |
 | 4 | **Iron Will + resistência mental** | 8 dados contra Dominate. Respeitável contra ancilas. Principal defesa contra a disciplina mais perigosa para mortais. |
-| 5 | **Intelligence 5 + Repair 5 = 10 dados** | Fabricação, invenção e adaptação em campo. Vantagem *estratégica* de longo prazo. Int 5 como buffer universal. |
-| 6 | **Resources 5** | Acesso irrestrito a tecnologia, matéria-prima, equipamento e infraestrutura. O motor que torna todo o arsenal possível. |
-| 7 | **Preparação territorial** | Fazenda fortificada: câmeras IP, sensores sísmicos, bio-sensores (gansos). Em terreno preparado, vantagem de campo massiva. |
-| 8 | **Rötschreck como arma** | Munições incendiárias e Estrela da Manhã forçam testes de Rötschreck que tiram vampiros de combate sem precisar matá-los. O medo é mais confiável que o dano. |
-| 9 | **Coerência temática total** | Cada item, cada habilidade e cada PB é justificado pela narrativa. Nada é genérico. Um dos builds mais coerentes de HH2. |
-| 10 | **Autocontrole 4 + Coragem 4** | Funciona sob pressão extrema. Não pânica, não erra sob stress. Blindagem composicional. |
-| 11 | **Armadura Social Passiva (Asperger)** | Defesa anti-manipulação que nenhum mérito compra. Sedução, charme, intimidação social e pressão emocional *não registram*. Contra Awe/Entrancement e manipulação mundana, Vince tem defesa passiva única. |
-| 12 | **Gun-Fu + Melee 1 — CQB funcional** | Pode atirar a queima-roupa sem penalidade (Gun-Fu) e tem defesa melee mínima (pool 5). Não é especialista CQB, mas também não é alvo indefeso com arma na mão. |
+| 5 | **Intelligence 5 + Repair 4 = 9 dados** | Fabricação de elite. Embora não seja 10 dados, 9 é suficiente para quase qualquer teste de engenharia (Diff 8 ou 9). Int 5 carrega a build. |
+| 6 | **Resources 5** | O motor financeiro. 100% vital. |
+| 7 | **Preparação territorial** | Fazenda fortificada: vantagem de campo. |
+| 8 | **Rötschreck como arma** | Munições fazem o trabalho que Dano não faz. |
+| 9 | **Coerência temática total** | Build sólido e justificado. |
+| 10 | **Autocontrole 4 + Coragem 4** | Mente blindada contra pânico. |
+| 11 | **Armadura Social Passiva (Asperger)** | Defesa anti-manipulação emocional. |
+| 12 | **Gun-Fu + Melee 2 — CQB Funcional** | Com Melee 2 (+20% na pool de Parry), Vince sobrevive melhor em combate próximo *se armado*. Gun-Fu permite responder com fogo letal. |
 
 <div style="page-break-after: always;"></div>
 
@@ -885,7 +878,7 @@ Vince não é um líder natural, um infiltrador social ou um místico. Ele é um
 | Papel de Party | Vince preenche? | Notas |
 |---|---|---|
 | **DPS / Striker** | 🟢 **Primário** | 9-11 tiros/turno com dano Agravado. O maior output ofensivo possível para um mortal. É *o* canhão da célula. |
-| **Quartermaster / Armeiro** | 🟢 **Primário** | Int(5)+Repair(5) = 10 dados. Fabrica munições, explosivos, gadgets e adapta equipamento para toda a party. Resources 5 financia tudo. |
+| **Quartermaster / Armeiro** | 🟢 **Primário** | Int(5)+Repair(4) = 9 dados. Fabrica munições, explosivos, gadgets e adapta equipamento para toda a party. Resources 5 financia tudo. |
 | **Engenheiro de Campo** | 🟢 **Primário** | Projeta e constrói contramedidas, armadilhas, fortificações. A fazenda fortificada é prova de conceito. |
 | **Analista / Intel** | 🟡 **Secundário** | Int(5)+Computer(3) = 8 dados para análise de dados e hacking. Per(3)+Investigation(2) = 5 para investigação de campo. Funcional mas não excepcional. |
 | **Tank / Escudo** | 🔴 **Incapaz** | Sta 2, Dodge 1, Brawl 0. Vince é o *último* membro que deveria absorver dano. |
@@ -902,20 +895,20 @@ Vince não é um líder natural, um infiltrador social ou um místico. Ele é um
 
 Vince sozinho gera mais dano por turno do que uma party inteira de mortais padrão. Numa célula de 4 caçadores, ele provavelmente responde por **60-70% do output ofensivo total**. Isso libera os outros membros para desempenhar funções de suporte sem se preocupar em competir em DPS.
 
-**2. Arsenal Compartilhável (Resources 5 + Repair 5)**
+**2. Arsenal Compartilhável (Resources 5 + Repair 4)**
 
 O impacto mais subestimado de Vince numa party: ele pode **equipar toda a célula**.
 
 | O que Vince pode fabricar/fornecer | Pool | Benefício para a Party |
 |---|---|---|
-| Munições especiais (API, Magnésio, Prata) | Int(5)+Repair(5) = **10** | Toda a party com dano Agravado — não só o Vince. |
-| Coletes/Brigandinas adaptados | Int(5)+Repair(5) = **10** | +4 absorção para cada membro. |
+| Munições especiais (API, Magnésio, Prata) | Int(5)+Repair(4) = **9** | Toda a party com dano Agravado — não só o Vince. |
+| Coletes/Brigandinas adaptados | Int(5)+Repair(4) = **9** | +4 absorção para cada membro. |
 | Granadas Green Gas / Estrela da Manhã | Int(5)+Science(3) = **8** | Controle de área e Rötschreck para todos. |
 | Rádios e comunicação tática | Int(5)+Computer(3) = **8** | Coordenação de equipe profissional. |
 | Explosivos para armadilhas | Int(5)+Science(3) = **8** | Defesa de perímetro. Kill zones preparadas. |
-| Gadgets customizados por membro | Int(5)+Repair(5) = **10** | Equipamento sob medida para cada arquétipo. |
+| Gadgets customizados por membro | Int(5)+Repair(4) = **9** | Equipamento sob medida para cada arquétipo. |
 
-> 🟢 **Efeito multiplicador:** Um Resources 5 + Repair 5 numa party não é um bônus linear — é **exponencial**. Vince transforma uma célula de "civis com pistolas" em uma unidade paramilitar equipada com tecnologia anti-sobrenatural. O *valor de party* de Vince é drasticamente maior que seu valor solo.
+> 🟢 **Efeito multiplicador:** Um Resources 5 + Repair 4 numa party não é um bônus linear — é **exponencial**. Vince transforma uma célula de "civis com pistolas" em uma unidade paramilitar equipada com tecnologia anti-sobrenatural. O *valor de party* de Vince é drasticamente maior que seu valor solo.
 
 **3. Supressão e Controle de Combate**
 
@@ -1052,7 +1045,7 @@ Vince é **difícil de conviver**. Isso afeta a dinâmica de party diretamente:
 ║  VALOR SOLO:         B   (letal mas frágil)                   ║
 ║  VALOR EM PARTY:     A+  (multiplicador de força da célula)   ║
 ║  DEPENDÊNCIA DE PARTY: Alta (precisa de tank, face, faith)    ║
-║  CONTRIBUIÇÃO ÚNICA:  Resources 5 + Repair 5 + Output máximo ║
+║  CONTRIBUIÇÃO ÚNICA:  Resources 5 + Repair 4 + Output máximo ║
 ╠════════════════════════════════════════════════════════════════╣
 ║  COMPATIBILIDADE:                                             ║
 ║    c/ Cruzado (Faith):    ★★★★★ — Complemento perfeito       ║
@@ -1112,22 +1105,18 @@ Vince é **difícil de conviver**. Isso afeta a dinâmica de party diretamente:
 
 ---
 
-## 14. ERRATA — Divergências com Relatórios Anteriores
+## 14. REGISTRO DE MUDANÇAS (Changelog v4.0 → v4.1)
 
-Esta seção documenta divergências entre a ficha canônica (`Vince.md`) e relatórios de avaliação anteriores (v3/Final):
+A ficha foi refinada para eliminar ambiguidades de regras e fechar o orçamento de PB com precisão cirúrgica.
 
-| Item | Relatórios Anteriores (v3/Final) | Ficha Atual (`Vince.md`) | Impacto |
-|------|----------------------------------|--------------------------|---------|
-| **Dodge** | **2** (1 base + 1 PB = 2 PB gastos) | **1** (sem PB) | Pool de esquiva cai de **6** para **5**. Degradação defensiva significativa. |
-| **Enemy** | **+3 PB** | **+2 PB** | 1 PB a menos no orçamento. Inimigo ligeiramente menos poderoso. |
-| **Dark Secret** | **Listado (+2 PB)** | **Não listado** | 2 PB a menos no orçamento de defeitos. |
-| **Concentration** | **Listado (1 PB)** | **Não listado** | Sem penalidade de distração mitigada. Perde sinergia com hiperfoco autista. |
-| **Total de PB** | **31** (21 base + 10 defeitos) | **28** (21 base + 7 defeitos) | Orçamento menor; 3 PB a menos. Todas as compras da ficha atual fecham em 28/28. |
-| **Teto de Defeitos** | ⚠️ Excedia +7 (usava +10) | ✅ Dentro do limite RAW (+7) | Ficha atual não requer concessão do Narrador para defeitos. |
+| Item | Versão Anterior (v4.0) | Versão Atual (v4.1) | Impacto |
+|------|------------------------|---------------------|---------|
+| **Repair/Eng** | **5** (Base 4? + 1 PB) | **4** (Base 3 + 1 PB) | **Pool cai de 10 para 9.** Ajuste necessário para cumprir o teto de 3 na criação base. |
+| **Stealth** | 2 (Base 1 + 1 PB) | **2** (Base 2, sem PB) | Economia de 2 PB. Alocação base otimizada. |
+| **Melee** | 1 (Base 1) | **2** (Base 2) | **Pool sobe de 5 para 6.** Defesa pessoal (Parry) melhorada sem custo de PB. |
+| **Teto 3/Hab** | ⚠️ Violado (Firearms 4, Repair 4) | ✅ **Respeitado** (Base 3 + PB) | Build 100% legal perante regras estritas do HH2 (p. 35). |
 
-> **Interpretação:** A ficha canônica representa uma versão mais **conservadora e RAW-compliant** do personagem. O orçamento é menor (28 vs. 31), o teto de defeitos está dentro do padrão V20, e a alocação de habilidades 13/9/5 é o **padrão RAW do HH2** (p. 35) — não uma house rule como indicado em relatórios anteriores.
->
-> **Trade-off:** A conformidade RAW dos defeitos vem ao custo de: Dodge reduzido (defesa mais fraca), ausência de Concentration (sem mitigação de distração) e ausência de Dark Secret (remove uma vulnerabilidade narrativa interessante mas também um ponto de pressão para o Narrador).
+> **Conclusão v4.1:** A perda de 1 dado em Repair (10→9) é um preço pequeno a pagar pela legalidade absoluta da ficha e o ganho defensivo em Melee (5→6). O personagem está mais equilibrado e à prova de advogados de regras.
 
 <div style="page-break-after: always;"></div>
 
@@ -1137,42 +1126,27 @@ Esta seção documenta divergências entre a ficha canônica (`Vince.md`) e rela
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    CLASSIFICAÇÃO FINAL — v4.0                      ║
+║                    CLASSIFICAÇÃO FINAL — v4.1                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  CONCEITO:           Glass Cannon / Engenheiro de Combate          ║
 ║  COERÊNCIA TEMÁTICA: ★★★★★ (5/5) — Impecável                      ║
-║  PODER OFENSIVO:     ★★★★★ (5/5) — Máximo teórico para mortal     ║
-║  RESILIÊNCIA:        ★☆☆☆☆ (1.5/5) — Crítica (Dodge 1 agrava)    ║
-║  VERSATILIDADE:      ★★★☆☆ (3/5) — Excepcional em combate e      ║
-║                      engenharia; fraco em social e investigação    ║
+║  PODER OFENSIVO:     ★★★★★ (5/5) — Máximo teórico preservado      ║
+║  RESILIÊNCIA:        ★★☆☆☆ (2/5) — Melhorada com Melee 2         ║
+║  VERSATILIDADE:      ★★★☆☆ (3/5) — Repair 4 ainda é excelente    ║
 ║  SOBREVIVÊNCIA HH2:  ★★★☆☆ (3/5) — Depende de preparação total   ║
-║  CONFORMIDADE RAW:   ★★★★☆ (4/5) — RAW-compliant; ressalva        ║
-║                      menor no teto de 3/habilidade na criação      ║
+║  CONFORMIDADE RAW:   ★★★★★ (5/5) — Perfeito ("Gold Standard")     ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  NOTA GERAL:         B                                             ║
-║  (Reduzida de B+ para B pela degradação defensiva com Dodge 1)     ║
+║  NOTA GERAL:         B+                                            ║
+║  (Elevada de B para B+. A ficha é 100% legal e cobre lacunas)      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-**Vincent "Vince" Ferrara é um dos personagens mortais mais letais possíveis dentro do Hunters Hunted II** — e simultaneamente um dos mais frágeis. Uma obra-prima de otimização ofensiva onde cada PB, cada mérito e cada item servem a um propósito claro e sinérgico.
+**Vincent "Vince" Ferrara (v4.1)** é a versão definitiva deste conceito. Ao sacrificar o 5º ponto em Engenharia (que era tecnicamente questionável na criação) para reforçar Melee e legalizar a distribuição base, o personagem tornou-se mais robusto e menos dependente de interpretações generosas do Narrador.
 
-Ele opera no fio da navalha. Sua sobrevivência depende de quatro condições simultâneas:
+Ele continua sendo um Glass Cannon, mas agora tem um *parry* decente caso a primeira linha de defesa falhe. O combo **Resources 5 + Int 5 + Repair 4** ainda garante supremacia técnica absoluta.
 
-1. **Atirar primeiro** — Iniciativa 7+d10 + Saque reflexivo.
-2. **Matar antes que fechem distância** — 9-11 tiros/turno com Agravado.
-3. **Nunca ser pego de surpresa** — Sensores + Gansos + Preparação territorial.
-4. **Nunca ser desarmado** — Gun-Fu funciona com arma na mão. Sem ela, Brawl 0 é uma sentença.
-
-Se **qualquer** condição falhar, Vince morre. Não há plano B místico. Não há Faith. Não há aliados para resgatar. Não há Stamina para tankar. E com Dodge 1, a margem de erro para ser atingido é ainda menor do que antes.
-
-É uma existência de **"perfeição ou morte"** — o que, ironicamente, é a essência do personagem: um engenheiro que busca a solução perfeita para um problema imperfeito.
-
-> *"Se não sangra, ainda pode ser derrubado."* — V. Ferrara, Entry #001.
->
-> E quando encontrar algo que não pode ser derrubado? Pode ser incinerado. Eletrocutado. Dissolvido em ácido. Triturado. A engenharia não conhece becos sem saída — apenas problemas que ainda não receberam energia suficiente.
-
-**Recomendação imediata ao jogador:** Investir os primeiros XP em **Dodge 1→2** e **Brawl 0→1**. São 5 XP que transformam a survivability de "suicida" para "arriscado mas viável". Todo o resto — Occult, Contacts, Allies — pode esperar. Dodge e Brawl não podem.
+**Recomendação de XP:** O foco permanece em sobrevivência. **Dodge 1→2** deve ser a primeira compra, inegociável. Depois, **Brawl 0→1** para evitar *grapples*. Com essas duas compras, Vince estará pronto para qualquer campanha de Hunters Hunted II.
 
 ---
 
-*Relatório v4.0 — 15 de Fevereiro de 2026. Sistema de referência: Vampire: The Masquerade V20, Hunters Hunted II. Todas as análises assumem regras RAW salvo onde indicado. Esta versão utiliza exclusivamente a ficha canônica (`Vince.md`) como fonte e documenta todas as divergências com relatórios anteriores na Seção 13.*
+*Relatório v4.1 — Atualizado pós-revisão do usuário. Sistema de referência: Vampire: The Masquerade V20, Hunters Hunted II. Ficha canônica: `Vince.md`.*

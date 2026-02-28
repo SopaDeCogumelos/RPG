@@ -101,7 +101,8 @@
 
 6. **Status Atual (1999)**
    
-   Vince reemerge na sociedade em 1999. Aos olhos de seus antigos amigos, ele é o mesmo engenheiro de sucesso, talvez apenas mais sério e observador. Na realidade, ele é um caçador metódico que não busca heroísmo, mas eficiência. Ele encara os vampiros não como monstros místicos, mas como problemas de engenharia complexos que requerem soluções térmicas e cinéticas definitivas.
+   Vince reemerge na sociedade em 1999, durante a primeira aparição da HFT - Denfese Solutions no SHOT Show, onde lançaram ao publico o FCB-308. 
+   Aos olhos de seus antigos amigos, ele é o mesmo engenheiro de sucesso, talvez apenas mais sério e observador. Na realidade, ele é um caçador metódico que não busca heroísmo, mas eficiência. Ele encara os vampiros não como monstros místicos, mas como problemas de engenharia complexos que requerem soluções térmicas e cinéticas definitivas.
 
 <div align="center">
    <img src="media\Vince V3\Gemini_Generated_Image_xc1v15xc1v15xc1v.png" width="30%" style="margin: 5px;">
@@ -140,11 +141,11 @@
       3. Dodge: 1
    2. Skills:
       1. Drive: 2
-      2. Firearms: 4 - IPSC
-      3. Repair/Engineering: 5 (-2 PB) - Gunsmith
+      2. Firearms: 4 (-2 PB) - IPSC
+      3. Repair/Engineering: 4 (-2 PB) - Gunsmith
       4. Security: 1
-      5. Stealth: 2 (-2 PB)
-      6. Melee: 1
+      5. Stealth: 2
+      6. Melee: 2
    3. Knowledges:
       1. Computer: 3
       2. Investigation: 2 (-2 PB)
@@ -190,9 +191,11 @@
          1. Utiliza carga pesada de propelentes, pode danificar a arma se utilizado em modo semiautomático.
       4. **Sticky Paraklese Dragon Buck:** Híbrido de composto incendiário com bagos de aço com resina termofixa. Corrige a falta de massa cinética da Dragon's Breath comum. Caso penetre: 
          1. Dano 6 (Letal)
-         2. Caso haja penetração de dano letal, +1 (Por 2 turnos). 
+         2. Caso haja penetração de dano letal, +1 agravado (Por 2 turnos). 
          3. Força teste de Rötschreck (Dif 6, 8 no turno seguinte caso haja penetração).
-   3. **Regra de Dano Base:** 8 Dados.
+   3. **Regras:** 
+      1. **Dano Base:** 8 Dados.
+      2. **Race Gun:** -1 Dificuldade
 
 <div style="page-break-after: always;"></div>
 
@@ -203,12 +206,12 @@
 
    *Pistola 1911 calibrada para munição 9mm Major (Hot Load), customizada para competições de tiro na categoria Open. Capaz de atirar em alta velocidade sem perder a precisão. Possui carregador de 20 munições. Arma de porte diário do Vince.*
    1. **Customização Técnica:**
-      1. **Compensador**: Remove penalidade em sequências rápidas de disparos.
+      1. **Compensador**: -1 Dificuldade em sequências rápidas de disparos.
       2. **Supressor**: Diminui drasticamente o som do disparo.
    2. **Regra:** 
       1. **Dano:** Letal, 5 dados (devido à munição 9mm Major de alto fator de potência).
       2. **Bônus:** 
-         1. *Race Gun:* +1 dado em todas as ações com a arma.
+         1. **Race Gun:** -1 Dificuldade
 
 <div style="page-break-after: always;"></div>
 
@@ -224,12 +227,12 @@
       3. **Cano Bull Barrel:** Revestido em TiN (Nitreto de Titânio) para resistência térmica e redução de atrito.
    2. **Munição:** .460 Rowland "Super Performance".
       1. **Munição de Prata/Magnésio:**
-         1. **Núcleo de Magnésio:** Se inimigos falharem em absorver todo dano letal, 1 ponto desse dano é convertido em Agravado (Queimadura interna).
+         1. **Núcleo de Magnésio:** Se inimigos falharem em absorver todo dano letal, até 2 pontos desse dano é convertido em Agravado (Queimadura interna). Força teste de Rötschreck (Dif 5).
          2. **Revestimento de Prata:** O dano é Agravado contra Garou e não pode ser absorvido.
    3. **Regra:**
       1. **Dano:** 6 dados (Letal/Agravado dependendo da munição).
       2. **Capacidade:** 14+1 munições.
-      3. **Bônus:** *Race Gun:* +1 dado em testes de mira e precisão.
+      3. **Bônus Race Gun:** -1 Dificuldade
 
 <div style="page-break-after: always;"></div>
 
@@ -240,15 +243,13 @@
    *Protótipo de Fuzil Bullpup Calibre 7.62x51mm projetado e construído pelo Vince.*
    1. **Base:** Mecanismo AR10/FAL modificado para Bullpup.
    2. **Munição Especial:** 7.62mm API (Armor-Piercing Incendiary) Caseira.
-   3. **Ponto Fraco:** Por ser um protótipo, o equipamento está propenso a falhas:
-      1. **Falha Leve:** Falha de extração.
-      2. **Falha Crítica (1 em tudo):** Sistema de gás é danificado inutilizando a arma.
+   3. **Ponto Fraco:** Por ser um protótipo, o equipamento está propenso a 
    4. **Regra:** 
       1. **Dano:** O dano base é 8 dados.
-         1. Se inimigos falharem em absorver todo dano letal, 1 ponto desse dano é convertido em Agravado (Queimadura interna).
-         2. Rötschreck: O alvo atingido precisa fazer teste de coragem (Diff 5)
+         1. Se inimigos falharem em absorver todo dano letal, até 2 pontos desse dano é convertido em Agravado (Queimadura interna).
+         2. Força teste de Rötschreck (Dif 5).
       2. **Bônus:** 
-         1. *Mira Holográfica* +1 dado em testes de mira e precisão.
+         1. *Mira Holográfica* -1 Dificuldade.
          2. *Munição API*
 
 <div style="page-break-after: always;"></div>
@@ -358,7 +359,7 @@
 
    *Um design de armadura medieval reprojetado com materiais modernos. É modular para reparos fáceis, não afeta mobilidade e possui sistema de absorção de traumas. Porém, é pesado pra caralho e cansativo de usar.*
 
-   - **Proteção:** +6 dados de absorção, coverte todo dano recebi em Contundente.
+   - **Proteção:** +6 dados de absorção, coverte todo dano recebido em Contundente.
    - **Cobertura:** Torso e braços apenas
    - **Penalidades:** -1 Athletics
 
@@ -399,10 +400,11 @@
   - **Regra:**
      - Ao declarar um Drill (ex: Mozambique, Bill Drill), Vince não sofre as penalidades padrão de dividir a parada de dados (Múltiplas Ações) do V20. O Drill conta como uma única ação de ataque, representando a fluidez da sua memória muscular.
      - Em vez de calcular o dano bala por bala (o que quebra o sistema), o volume de fogo do Drill se traduz em precisão e letalidade concentrada.
-       - *Double Tap / Mozambique (Rajada Curta):* Concede +2 dados na rolagem de Ataque. (Ignora a penalidade de +1 Dificuldade padrão do V20 para rajadas.
-       - *Bill Drill / Mag Dump (Fogo Supressivo/Automático):* Vince despeja munição tão rápido que emula uma arma automática. Concede +10 dados na rolagem de Ataque, mas a Dificuldade do disparo aumenta em +2 devido ao recuo extremo de atirar em split times de 0.15s. (Consome o equivalente a 10 munições).
+       - *Double Tap / Mozambique (Rajada Curta):* Concede +2 dados na rolagem de Ataque. (Ignora a penalidade de +1 Dificuldade padrão do V20 para rajadas.)
+       - *Bill Drill / Mag Dump (Fogo Supressivo/Automático):* Vince despeja munição tão rápido que emula uma arma automática. Concede +10 dados na rolagem de Ataque, mas a Dificuldade do disparo aumenta em +1 devido ao recuo extremo de atirar em split times de 0.15s. (Consome o equivalente a 10 munições).
        - Para utilizar múltiplos drills no mesmo turno, o jogador deve conseguir encaixá-los dentro da duração de 3s do turno.
      - Como atirador profissional no IPSC, Vince consegue atirar e recarregar armas enquanto se movimenta com penalidades reduzidas (0 andando, +1 correndo).
+     - Precisão mecânica: -1 Dificuldade para *headshots*.
      - *Gun-Fu (CAR/CQB):* Vince pode utilizar pistolas e armas curtas em combate corpo-a-corpo. Ele ignora a penalidade de +2 Dificuldade padrão do sistema para atirar enquanto engajado em combate físico, usando o fuzil ou a pistola para reter o alvo e criar espaço.
      - Não se aplica a combate corpo-a-corpo convencional, outras habilidades ou ações não listadas.
 
